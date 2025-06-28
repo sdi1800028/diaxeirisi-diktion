@@ -1,0 +1,1200 @@
+{"drone_id": "Drone_1", "message": "Encountering fog. Instructions?"}
+{"drone_id": "Drone_6", "message": "Risk alert: High voltage zone nearby. Requesting guidance."}
+{"drone_id": "Drone_5", "message": "Follow Drone Drone_10. Awaiting further instructions."}
+{"drone_id": "Drone_18", "message": "Victim signal detected during surveillance mission. Instructions?"}
+{"drone_id": "Drone_20", "message": "Reached surveillance point near building rooftop. Next step?"}
+{"drone_id": "Drone_14", "message": "Reached surveillance point near forest clearing. Instructions?"}
+{"drone_id": "Drone_5", "message": "Obstacle (mountain) detected 181m to the North. Requesting guidance."}
+{"drone_id": "Drone_4", "message": "Obstacle (bird) detected 29m to the West. Next step?"}
+{"drone_id": "Drone_10", "message": "Obstacle (power line) detected 142m to the North. Instructions?"}
+{"drone_id": "Drone_15", "message": "Reporting status: Low signal. Requesting guidance."}
+{"drone_id": "Drone_4", "message": "Encountering clear skies. Instructions?"}
+{"drone_id": "Drone_9", "message": "Delivered medical supplies. How should I proceed?"}
+{"drone_id": "Drone_9", "message": "Reached surveillance point near bridge. Suggested action?"}
+{"drone_id": "Drone_9", "message": "Victim signal detected during rescue mission. Requesting guidance."}
+{"drone_id": "Drone_6", "message": "Follow Drone Drone_12. Requesting guidance."}
+{"drone_id": "Drone_10", "message": "Reporting status: Severe turbulence. How should I proceed?"}
+{"drone_id": "Drone_11", "message": "Obstacle (smoke) detected 129m to the West. Suggested action?"}
+{"drone_id": "Drone_8", "message": "Risk alert: High voltage zone nearby. Instructions?"}
+{"drone_id": "Drone_5", "message": "Risk alert: Unstable wind conditions in sector 4. Awaiting further instructions."}
+{"drone_id": "Drone_1", "message": "Encountering strong wind. How should I proceed?"}
+{"drone_id": "Drone_12", "message": "Risk alert: Possible human presence detected. Next step?"}
+{"drone_id": "Drone_19", "message": "Delivered documents. Requesting guidance."}
+{"drone_id": "Drone_8", "message": "Risk alert: High voltage zone nearby. Suggested action?"}
+{"drone_id": "Drone_10", "message": "Reached surveillance point near crowd gathering. How should I proceed?"}
+{"drone_id": "Drone_15", "message": "Delivered documents. Next step?"}
+{"drone_id": "Drone_17", "message": "Form formation with Drone Drone_7. Suggested action?"}
+{"drone_id": "Drone_19", "message": "Victim signal detected during mapping mission. Suggested action?"}
+{"drone_id": "Drone_7", "message": "Reached surveillance point near building rooftop. Awaiting further instructions."}
+{"drone_id": "Drone_2", "message": "Encountering fog. How should I proceed?"}
+{"drone_id": "Drone_3", "message": "Obstacle (drone) detected 141m to the South-West. Requesting guidance."}
+{"drone_id": "Drone_20", "message": "Reached surveillance point near building rooftop. What should I do?"}
+{"drone_id": "Drone_7", "message": "Delivered electronics package. Awaiting further instructions."}
+{"drone_id": "Drone_12", "message": "Victim signal detected during delivery mission. Requesting guidance."}
+{"drone_id": "Drone_11", "message": "Encountering snow. Awaiting further instructions."}
+{"drone_id": "Drone_7", "message": "Delivered medical supplies. Requesting guidance."}
+{"drone_id": "Drone_8", "message": "Encountering clear skies. Requesting guidance."}
+{"drone_id": "Drone_13", "message": "Encountering fog. Instructions?"}
+{"drone_id": "Drone_1", "message": "Risk alert: Possible human presence detected. Instructions?"}
+{"drone_id": "Drone_19", "message": "Obstacle (drone) detected 128m to the East. Awaiting further instructions."}
+{"drone_id": "Drone_14", "message": "Risk alert: Unauthorized drone activity observed. What should I do?"}
+{"drone_id": "Drone_2", "message": "Obstacle (drone) detected 100m to the West. Instructions?"}
+{"drone_id": "Drone_3", "message": "Victim signal detected during delivery mission. Awaiting further instructions."}
+{"drone_id": "Drone_17", "message": "Maintain spacing with Drone Drone_10. What should I do?"}
+{"drone_id": "Drone_15", "message": "Delivered documents. Instructions?"}
+{"drone_id": "Drone_10", "message": "Reached surveillance point near building rooftop. Awaiting further instructions."}
+{"drone_id": "Drone_2", "message": "Obstacle (drone) detected 154m to the South. Instructions?"}
+{"drone_id": "Drone_11", "message": "Victim signal detected during mapping mission. Awaiting further instructions."}
+{"drone_id": "Drone_1", "message": "Reached surveillance point near building rooftop. Requesting guidance."}
+{"drone_id": "Drone_20", "message": "Reporting status: High wind alert. Instructions?"}
+{"drone_id": "Drone_16", "message": "Follow Drone Drone_18. Suggested action?"}
+{"drone_id": "Drone_20", "message": "Delivered emergency food pack. What should I do?"}
+{"drone_id": "Drone_15", "message": "Obstacle (radio tower) detected 117m to the East. How should I proceed?"}
+{"drone_id": "Drone_10", "message": "Obstacle (mountain) detected 130m to the North-East. What should I do?"}
+{"drone_id": "Drone_10", "message": "Victim signal detected during mapping mission. Instructions?"}
+{"drone_id": "Drone_19", "message": "Delivered electronics package. Instructions?"}
+{"drone_id": "Drone_7", "message": "Risk alert: Unauthorized drone activity observed. Next step?"}
+{"drone_id": "Drone_15", "message": "Risk alert: Possible human presence detected. Next step?"}
+{"drone_id": "Drone_9", "message": "Reporting status: Battery low. What should I do?"}
+{"drone_id": "Drone_12", "message": "Reached surveillance point near vehicle convoy. Instructions?"}
+{"drone_id": "Drone_8", "message": "Reached surveillance point near building rooftop. Next step?"}
+{"drone_id": "Drone_2", "message": "Encountering fog. How should I proceed?"}
+{"drone_id": "Drone_5", "message": "Reached surveillance point near forest clearing. Next step?"}
+{"drone_id": "Drone_17", "message": "Risk alert: High voltage zone nearby. Suggested action?"}
+{"drone_id": "Drone_7", "message": "Encountering snow. Requesting guidance."}
+{"drone_id": "Drone_20", "message": "Obstacle (bird) detected 34m to the North. Requesting guidance."}
+{"drone_id": "Drone_3", "message": "Obstacle (smoke) detected 71m to the North-East. Awaiting further instructions."}
+{"drone_id": "Drone_15", "message": "Reporting status: Obstacle detected. Instructions?"}
+{"drone_id": "Drone_20", "message": "Reached surveillance point near crowd gathering. Suggested action?"}
+{"drone_id": "Drone_2", "message": "Reached surveillance point near forest clearing. Suggested action?"}
+{"drone_id": "Drone_9", "message": "Reporting status: Battery low. How should I proceed?"}
+{"drone_id": "Drone_1", "message": "Reporting status: Low signal. How should I proceed?"}
+{"drone_id": "Drone_3", "message": "Delivered electronics package. How should I proceed?"}
+{"drone_id": "Drone_14", "message": "Risk alert: High voltage zone nearby. What should I do?"}
+{"drone_id": "Drone_20", "message": "Risk alert: Possible human presence detected. What should I do?"}
+{"drone_id": "Drone_10", "message": "Reporting status: High wind alert. Next step?"}
+{"drone_id": "Drone_2", "message": "Reached surveillance point near forest clearing. Instructions?"}
+{"drone_id": "Drone_18", "message": "Encountering heavy rain. What should I do?"}
+{"drone_id": "Drone_4", "message": "Encountering fog. How should I proceed?"}
+{"drone_id": "Drone_1", "message": "Encountering strong wind. Requesting guidance."}
+{"drone_id": "Drone_18", "message": "Encountering heavy rain. How should I proceed?"}
+{"drone_id": "Drone_9", "message": "Reporting status: Battery low. Awaiting further instructions."}
+{"drone_id": "Drone_7", "message": "Delivered sensor module. What should I do?"}
+{"drone_id": "Drone_18", "message": "Maintain spacing with Drone Drone_14. Instructions?"}
+{"drone_id": "Drone_17", "message": "Reached surveillance point near forest clearing. Awaiting further instructions."}
+{"drone_id": "Drone_9", "message": "Reporting status: Low signal. Requesting guidance."}
+{"drone_id": "Drone_6", "message": "Reporting status: Payload dropped. Awaiting further instructions."}
+{"drone_id": "Drone_9", "message": "Follow Drone Drone_4. Instructions?"}
+{"drone_id": "Drone_7", "message": "Risk alert: Smoke detected - potential fire. What should I do?"}
+{"drone_id": "Drone_15", "message": "Obstacle (antenna) detected 131m to the North-East. What should I do?"}
+{"drone_id": "Drone_11", "message": "Reached surveillance point near forest clearing. How should I proceed?"}
+{"drone_id": "Drone_20", "message": "Victim signal detected during delivery mission. What should I do?"}
+{"drone_id": "Drone_18", "message": "Coordinate with Drone Drone_10. What should I do?"}
+{"drone_id": "Drone_11", "message": "Victim signal detected during rescue mission. Suggested action?"}
+{"drone_id": "Drone_10", "message": "Victim signal detected during rescue mission. Requesting guidance."}
+{"drone_id": "Drone_15", "message": "Victim signal detected during rescue mission. Instructions?"}
+{"drone_id": "Drone_20", "message": "Victim signal detected during mapping mission. How should I proceed?"}
+{"drone_id": "Drone_10", "message": "Reached surveillance point near bridge. How should I proceed?"}
+{"drone_id": "Drone_3", "message": "Risk alert: Smoke detected - potential fire. Next step?"}
+{"drone_id": "Drone_4", "message": "Reporting status: Path clear. Requesting guidance."}
+{"drone_id": "Drone_6", "message": "Encountering strong wind. Instructions?"}
+{"drone_id": "Drone_1", "message": "Follow Drone Drone_12. Requesting guidance."}
+{"drone_id": "Drone_16", "message": "Victim signal detected during surveillance mission. Instructions?"}
+{"drone_id": "Drone_11", "message": "Reached surveillance point near forest clearing. Awaiting further instructions."}
+{"drone_id": "Drone_18", "message": "Reached surveillance point near crowd gathering. Suggested action?"}
+{"drone_id": "Drone_9", "message": "Encountering fog. Requesting guidance."}
+{"drone_id": "Drone_13", "message": "Victim signal detected during delivery mission. Suggested action?"}
+{"drone_id": "Drone_2", "message": "Encountering fog. Suggested action?"}
+{"drone_id": "Drone_1", "message": "Risk alert: Unauthorized drone activity observed. Next step?"}
+{"drone_id": "Drone_3", "message": "Encountering snow. Instructions?"}
+{"drone_id": "Drone_3", "message": "Reached surveillance point near bridge. What should I do?"}
+{"drone_id": "Drone_17", "message": "Coordinate with Drone Drone_16. Next step?"}
+{"drone_id": "Drone_16", "message": "Risk alert: Unstable wind conditions in sector 4. What should I do?"}
+{"drone_id": "Drone_3", "message": "Obstacle (antenna) detected 51m to the East. Next step?"}
+{"drone_id": "Drone_13", "message": "Victim signal detected during rescue mission. Suggested action?"}
+{"drone_id": "Drone_4", "message": "Risk alert: Unstable wind conditions in sector 4. How should I proceed?"}
+{"drone_id": "Drone_8", "message": "Victim signal detected during surveillance mission. Next step?"}
+{"drone_id": "Drone_14", "message": "Reached surveillance point near bridge. Awaiting further instructions."}
+{"drone_id": "Drone_20", "message": "Maintain spacing with Drone Drone_3. Requesting guidance."}
+{"drone_id": "Drone_7", "message": "Encountering strong wind. Requesting guidance."}
+{"drone_id": "Drone_11", "message": "Obstacle (power line) detected 31m to the West. How should I proceed?"}
+{"drone_id": "Drone_3", "message": "Exchange telemetry with Drone Drone_8. Requesting guidance."}
+{"drone_id": "Drone_4", "message": "Follow Drone Drone_3. What should I do?"}
+{"drone_id": "Drone_3", "message": "Risk alert: Unstable wind conditions in sector 4. How should I proceed?"}
+{"drone_id": "Drone_18", "message": "Obstacle (tree) detected 67m to the West. Instructions?"}
+{"drone_id": "Drone_8", "message": "Risk alert: Smoke detected - potential fire. Requesting guidance."}
+{"drone_id": "Drone_1", "message": "Form formation with Drone Drone_14. Awaiting further instructions."}
+{"drone_id": "Drone_8", "message": "Obstacle (power line) detected 194m to the South. Suggested action?"}
+{"drone_id": "Drone_1", "message": "Encountering strong wind. Next step?"}
+{"drone_id": "Drone_12", "message": "Risk alert: Possible human presence detected. How should I proceed?"}
+{"drone_id": "Drone_18", "message": "Obstacle (power line) detected 9m to the North. Instructions?"}
+{"drone_id": "Drone_12", "message": "Obstacle (drone) detected 198m to the North-East. Awaiting further instructions."}
+{"drone_id": "Drone_1", "message": "Obstacle (bird) detected 151m to the East. Awaiting further instructions."}
+{"drone_id": "Drone_16", "message": "Victim signal detected during mapping mission. What should I do?"}
+{"drone_id": "Drone_14", "message": "Encountering heavy rain. Suggested action?"}
+{"drone_id": "Drone_19", "message": "Coordinate with Drone Drone_9. Awaiting further instructions."}
+{"drone_id": "Drone_11", "message": "Victim signal detected during rescue mission. Instructions?"}
+{"drone_id": "Drone_7", "message": "Coordinate with Drone Drone_12. Next step?"}
+{"drone_id": "Drone_16", "message": "Encountering strong wind. Instructions?"}
+{"drone_id": "Drone_15", "message": "Obstacle (radio tower) detected 20m to the East. Next step?"}
+{"drone_id": "Drone_16", "message": "Reached surveillance point near vehicle convoy. Next step?"}
+{"drone_id": "Drone_3", "message": "Risk alert: Possible human presence detected. Suggested action?"}
+{"drone_id": "Drone_12", "message": "Risk alert: Unauthorized drone activity observed. Suggested action?"}
+{"drone_id": "Drone_5", "message": "Risk alert: Unauthorized drone activity observed. Requesting guidance."}
+{"drone_id": "Drone_5", "message": "Obstacle (tree) detected 157m to the North. Requesting guidance."}
+{"drone_id": "Drone_20", "message": "Maintain spacing with Drone Drone_13. Suggested action?"}
+{"drone_id": "Drone_1", "message": "Coordinate with Drone Drone_19. Suggested action?"}
+{"drone_id": "Drone_8", "message": "Coordinate with Drone Drone_20. Next step?"}
+{"drone_id": "Drone_10", "message": "Encountering clear skies. What should I do?"}
+{"drone_id": "Drone_7", "message": "Risk alert: High voltage zone nearby. What should I do?"}
+{"drone_id": "Drone_13", "message": "Reached surveillance point near vehicle convoy. Requesting guidance."}
+{"drone_id": "Drone_11", "message": "Delivered emergency food pack. What should I do?"}
+{"drone_id": "Drone_13", "message": "Delivered sensor module. Instructions?"}
+{"drone_id": "Drone_13", "message": "Encountering clear skies. Requesting guidance."}
+{"drone_id": "Drone_13", "message": "Reached surveillance point near bridge. Next step?"}
+{"drone_id": "Drone_14", "message": "Reporting status: Severe turbulence. How should I proceed?"}
+{"drone_id": "Drone_18", "message": "Obstacle (antenna) detected 160m to the South. What should I do?"}
+{"drone_id": "Drone_9", "message": "Delivered sensor module. Next step?"}
+{"drone_id": "Drone_1", "message": "Delivered emergency food pack. Next step?"}
+{"drone_id": "Drone_4", "message": "Coordinate with Drone Drone_13. What should I do?"}
+{"drone_id": "Drone_11", "message": "Risk alert: Smoke detected - potential fire. Next step?"}
+{"drone_id": "Drone_19", "message": "Coordinate with Drone Drone_5. Suggested action?"}
+{"drone_id": "Drone_8", "message": "Reached surveillance point near building rooftop. How should I proceed?"}
+{"drone_id": "Drone_11", "message": "Risk alert: Possible human presence detected. Awaiting further instructions."}
+{"drone_id": "Drone_14", "message": "Obstacle (bird) detected 186m to the North. How should I proceed?"}
+{"drone_id": "Drone_14", "message": "Coordinate with Drone Drone_17. Instructions?"}
+{"drone_id": "Drone_18", "message": "Victim signal detected during rescue mission. Awaiting further instructions."}
+{"drone_id": "Drone_6", "message": "Reached surveillance point near building rooftop. Requesting guidance."}
+{"drone_id": "Drone_2", "message": "Exchange telemetry with Drone Drone_9. Requesting guidance."}
+{"drone_id": "Drone_6", "message": "Reporting status: Payload dropped. What should I do?"}
+{"drone_id": "Drone_6", "message": "Follow Drone Drone_19. How should I proceed?"}
+{"drone_id": "Drone_7", "message": "Reporting status: Path clear. Suggested action?"}
+{"drone_id": "Drone_15", "message": "Delivered electronics package. Requesting guidance."}
+{"drone_id": "Drone_10", "message": "Reporting status: Battery low. What should I do?"}
+{"drone_id": "Drone_6", "message": "Form formation with Drone Drone_9. How should I proceed?"}
+{"drone_id": "Drone_20", "message": "Victim signal detected during rescue mission. Requesting guidance."}
+{"drone_id": "Drone_7", "message": "Reached surveillance point near vehicle convoy. Next step?"}
+{"drone_id": "Drone_18", "message": "Victim signal detected during rescue mission. What should I do?"}
+{"drone_id": "Drone_2", "message": "Reporting status: Payload dropped. How should I proceed?"}
+{"drone_id": "Drone_12", "message": "Victim signal detected during mapping mission. Requesting guidance."}
+{"drone_id": "Drone_5", "message": "Risk alert: Unstable wind conditions in sector 4. Next step?"}
+{"drone_id": "Drone_17", "message": "Exchange telemetry with Drone Drone_5. Requesting guidance."}
+{"drone_id": "Drone_10", "message": "Victim signal detected during surveillance mission. Next step?"}
+{"drone_id": "Drone_15", "message": "Coordinate with Drone Drone_2. What should I do?"}
+{"drone_id": "Drone_8", "message": "Exchange telemetry with Drone Drone_17. How should I proceed?"}
+{"drone_id": "Drone_19", "message": "Victim signal detected during mapping mission. Instructions?"}
+{"drone_id": "Drone_7", "message": "Victim signal detected during rescue mission. How should I proceed?"}
+{"drone_id": "Drone_18", "message": "Form formation with Drone Drone_1. What should I do?"}
+{"drone_id": "Drone_11", "message": "Risk alert: Smoke detected - potential fire. Awaiting further instructions."}
+{"drone_id": "Drone_10", "message": "Encountering snow. Instructions?"}
+{"drone_id": "Drone_20", "message": "Encountering snow. Awaiting further instructions."}
+{"drone_id": "Drone_4", "message": "Obstacle (mountain) detected 38m to the South-West. Awaiting further instructions."}
+{"drone_id": "Drone_16", "message": "Encountering fog. How should I proceed?"}
+{"drone_id": "Drone_1", "message": "Risk alert: High voltage zone nearby. Suggested action?"}
+{"drone_id": "Drone_9", "message": "Obstacle (drone) detected 79m to the North-East. How should I proceed?"}
+{"drone_id": "Drone_3", "message": "Reached surveillance point near bridge. Awaiting further instructions."}
+{"drone_id": "Drone_9", "message": "Form formation with Drone Drone_10. Suggested action?"}
+{"drone_id": "Drone_2", "message": "Delivered medical supplies. Instructions?"}
+{"drone_id": "Drone_10", "message": "Obstacle (power line) detected 146m to the North-East. Instructions?"}
+{"drone_id": "Drone_17", "message": "Reporting status: GPS lost. How should I proceed?"}
+{"drone_id": "Drone_18", "message": "Victim signal detected during mapping mission. How should I proceed?"}
+{"drone_id": "Drone_14", "message": "Encountering strong wind. Requesting guidance."}
+{"drone_id": "Drone_5", "message": "Reporting status: Payload dropped. Awaiting further instructions."}
+{"drone_id": "Drone_17", "message": "Maintain spacing with Drone Drone_6. What should I do?"}
+{"drone_id": "Drone_20", "message": "Delivered sensor module. How should I proceed?"}
+{"drone_id": "Drone_6", "message": "Encountering heavy rain. What should I do?"}
+{"drone_id": "Drone_4", "message": "Victim signal detected during mapping mission. Next step?"}
+{"drone_id": "Drone_5", "message": "Encountering fog. Suggested action?"}
+{"drone_id": "Drone_5", "message": "Reached surveillance point near vehicle convoy. How should I proceed?"}
+{"drone_id": "Drone_15", "message": "Exchange telemetry with Drone Drone_19. Instructions?"}
+{"drone_id": "Drone_9", "message": "Obstacle (bird) detected 117m to the South-West. Suggested action?"}
+{"drone_id": "Drone_9", "message": "Delivered documents. What should I do?"}
+{"drone_id": "Drone_20", "message": "Obstacle (power line) detected 190m to the West. Instructions?"}
+{"drone_id": "Drone_11", "message": "Obstacle (bird) detected 80m to the South. Awaiting further instructions."}
+{"drone_id": "Drone_17", "message": "Reached surveillance point near building rooftop. Instructions?"}
+{"drone_id": "Drone_18", "message": "Reached surveillance point near crowd gathering. What should I do?"}
+{"drone_id": "Drone_7", "message": "Exchange telemetry with Drone Drone_2. Requesting guidance."}
+{"drone_id": "Drone_20", "message": "Reporting status: Low signal. Awaiting further instructions."}
+{"drone_id": "Drone_1", "message": "Reached surveillance point near bridge. Next step?"}
+{"drone_id": "Drone_8", "message": "Encountering snow. Requesting guidance."}
+{"drone_id": "Drone_3", "message": "Follow Drone Drone_13. Awaiting further instructions."}
+{"drone_id": "Drone_7", "message": "Exchange telemetry with Drone Drone_10. Next step?"}
+{"drone_id": "Drone_20", "message": "Reporting status: High wind alert. How should I proceed?"}
+{"drone_id": "Drone_9", "message": "Victim signal detected during rescue mission. Awaiting further instructions."}
+{"drone_id": "Drone_15", "message": "Encountering snow. Next step?"}
+{"drone_id": "Drone_4", "message": "Delivered electronics package. Instructions?"}
+{"drone_id": "Drone_11", "message": "Obstacle (bird) detected 18m to the West. Next step?"}
+{"drone_id": "Drone_13", "message": "Risk alert: Unstable wind conditions in sector 4. Awaiting further instructions."}
+{"drone_id": "Drone_4", "message": "Reached surveillance point near forest clearing. How should I proceed?"}
+{"drone_id": "Drone_4", "message": "Follow Drone Drone_15. Instructions?"}
+{"drone_id": "Drone_5", "message": "Victim signal detected during mapping mission. What should I do?"}
+{"drone_id": "Drone_10", "message": "Delivered emergency food pack. What should I do?"}
+{"drone_id": "Drone_3", "message": "Obstacle (power line) detected 12m to the South-West. What should I do?"}
+{"drone_id": "Drone_6", "message": "Follow Drone Drone_1. Next step?"}
+{"drone_id": "Drone_17", "message": "Encountering fog. Instructions?"}
+{"drone_id": "Drone_15", "message": "Risk alert: Possible human presence detected. Awaiting further instructions."}
+{"drone_id": "Drone_2", "message": "Follow Drone Drone_7. What should I do?"}
+{"drone_id": "Drone_16", "message": "Reached surveillance point near forest clearing. Instructions?"}
+{"drone_id": "Drone_4", "message": "Victim signal detected during delivery mission. What should I do?"}
+{"drone_id": "Drone_3", "message": "Victim signal detected during rescue mission. Awaiting further instructions."}
+{"drone_id": "Drone_15", "message": "Victim signal detected during surveillance mission. How should I proceed?"}
+{"drone_id": "Drone_11", "message": "Encountering heavy rain. Awaiting further instructions."}
+{"drone_id": "Drone_7", "message": "Exchange telemetry with Drone Drone_17. Requesting guidance."}
+{"drone_id": "Drone_16", "message": "Obstacle (drone) detected 69m to the North-East. Instructions?"}
+{"drone_id": "Drone_15", "message": "Coordinate with Drone Drone_19. Next step?"}
+{"drone_id": "Drone_14", "message": "Risk alert: Smoke detected - potential fire. How should I proceed?"}
+{"drone_id": "Drone_8", "message": "Reached surveillance point near vehicle convoy. How should I proceed?"}
+{"drone_id": "Drone_9", "message": "Obstacle (smoke) detected 114m to the East. Awaiting further instructions."}
+{"drone_id": "Drone_10", "message": "Delivered medical supplies. Instructions?"}
+{"drone_id": "Drone_9", "message": "Reached surveillance point near bridge. Instructions?"}
+{"drone_id": "Drone_9", "message": "Risk alert: Unauthorized drone activity observed. What should I do?"}
+{"drone_id": "Drone_7", "message": "Encountering clear skies. Instructions?"}
+{"drone_id": "Drone_8", "message": "Encountering heavy rain. How should I proceed?"}
+{"drone_id": "Drone_12", "message": "Victim signal detected during surveillance mission. Instructions?"}
+{"drone_id": "Drone_7", "message": "Reached surveillance point near forest clearing. What should I do?"}
+{"drone_id": "Drone_3", "message": "Victim signal detected during surveillance mission. Next step?"}
+{"drone_id": "Drone_6", "message": "Obstacle (tree) detected 26m to the North. Requesting guidance."}
+{"drone_id": "Drone_11", "message": "Reporting status: High wind alert. Requesting guidance."}
+{"drone_id": "Drone_17", "message": "Encountering fog. Awaiting further instructions."}
+{"drone_id": "Drone_15", "message": "Risk alert: Unstable wind conditions in sector 4. Next step?"}
+{"drone_id": "Drone_13", "message": "Victim signal detected during mapping mission. Instructions?"}
+{"drone_id": "Drone_2", "message": "Reached surveillance point near bridge. What should I do?"}
+{"drone_id": "Drone_13", "message": "Victim signal detected during delivery mission. How should I proceed?"}
+{"drone_id": "Drone_14", "message": "Encountering clear skies. How should I proceed?"}
+{"drone_id": "Drone_20", "message": "Maintain spacing with Drone Drone_9. Instructions?"}
+{"drone_id": "Drone_1", "message": "Reporting status: Ice forming on rotors. Awaiting further instructions."}
+{"drone_id": "Drone_1", "message": "Obstacle (drone) detected 21m to the South. Requesting guidance."}
+{"drone_id": "Drone_15", "message": "Victim signal detected during mapping mission. Instructions?"}
+{"drone_id": "Drone_10", "message": "Victim signal detected during delivery mission. How should I proceed?"}
+{"drone_id": "Drone_3", "message": "Encountering heavy rain. Instructions?"}
+{"drone_id": "Drone_15", "message": "Exchange telemetry with Drone Drone_13. Awaiting further instructions."}
+{"drone_id": "Drone_4", "message": "Risk alert: Unauthorized drone activity observed. Awaiting further instructions."}
+{"drone_id": "Drone_20", "message": "Reached surveillance point near crowd gathering. How should I proceed?"}
+{"drone_id": "Drone_17", "message": "Victim signal detected during delivery mission. Requesting guidance."}
+{"drone_id": "Drone_16", "message": "Reached surveillance point near crowd gathering. How should I proceed?"}
+{"drone_id": "Drone_10", "message": "Encountering heavy rain. Awaiting further instructions."}
+{"drone_id": "Drone_11", "message": "Obstacle (power line) detected 119m to the North-East. Requesting guidance."}
+{"drone_id": "Drone_20", "message": "Reporting status: Payload dropped. Requesting guidance."}
+{"drone_id": "Drone_15", "message": "Victim signal detected during delivery mission. How should I proceed?"}
+{"drone_id": "Drone_5", "message": "Encountering heavy rain. Requesting guidance."}
+{"drone_id": "Drone_6", "message": "Reporting status: Path clear. Instructions?"}
+{"drone_id": "Drone_13", "message": "Risk alert: High voltage zone nearby. What should I do?"}
+{"drone_id": "Drone_11", "message": "Encountering clear skies. Suggested action?"}
+{"drone_id": "Drone_2", "message": "Delivered sensor module. Instructions?"}
+{"drone_id": "Drone_6", "message": "Delivered medical supplies. Suggested action?"}
+{"drone_id": "Drone_5", "message": "Reached surveillance point near bridge. Instructions?"}
+{"drone_id": "Drone_7", "message": "Victim signal detected during delivery mission. Instructions?"}
+{"drone_id": "Drone_6", "message": "Reached surveillance point near vehicle convoy. Next step?"}
+{"drone_id": "Drone_2", "message": "Encountering strong wind. How should I proceed?"}
+{"drone_id": "Drone_14", "message": "Encountering clear skies. Awaiting further instructions."}
+{"drone_id": "Drone_9", "message": "Obstacle (smoke) detected 76m to the South. Awaiting further instructions."}
+{"drone_id": "Drone_12", "message": "Risk alert: Unstable wind conditions in sector 4. Next step?"}
+{"drone_id": "Drone_3", "message": "Follow Drone Drone_7. Requesting guidance."}
+{"drone_id": "Drone_15", "message": "Encountering heavy rain. Requesting guidance."}
+{"drone_id": "Drone_11", "message": "Encountering clear skies. Next step?"}
+{"drone_id": "Drone_5", "message": "Delivered medical supplies. Awaiting further instructions."}
+{"drone_id": "Drone_8", "message": "Obstacle (antenna) detected 111m to the North. Awaiting further instructions."}
+{"drone_id": "Drone_1", "message": "Delivered documents. What should I do?"}
+{"drone_id": "Drone_10", "message": "Reached surveillance point near bridge. Next step?"}
+{"drone_id": "Drone_11", "message": "Risk alert: Possible human presence detected. Awaiting further instructions."}
+{"drone_id": "Drone_6", "message": "Encountering strong wind. Instructions?"}
+{"drone_id": "Drone_13", "message": "Risk alert: Unstable wind conditions in sector 4. How should I proceed?"}
+{"drone_id": "Drone_18", "message": "Victim signal detected during mapping mission. What should I do?"}
+{"drone_id": "Drone_1", "message": "Encountering clear skies. How should I proceed?"}
+{"drone_id": "Drone_16", "message": "Victim signal detected during mapping mission. What should I do?"}
+{"drone_id": "Drone_1", "message": "Delivered medical supplies. What should I do?"}
+{"drone_id": "Drone_8", "message": "Obstacle (drone) detected 48m to the North. How should I proceed?"}
+{"drone_id": "Drone_15", "message": "Reached surveillance point near crowd gathering. Requesting guidance."}
+{"drone_id": "Drone_3", "message": "Delivered electronics package. What should I do?"}
+{"drone_id": "Drone_4", "message": "Risk alert: Possible human presence detected. What should I do?"}
+{"drone_id": "Drone_18", "message": "Risk alert: Possible human presence detected. Instructions?"}
+{"drone_id": "Drone_10", "message": "Reporting status: Severe turbulence. Awaiting further instructions."}
+{"drone_id": "Drone_7", "message": "Delivered medical supplies. Requesting guidance."}
+{"drone_id": "Drone_4", "message": "Reporting status: Low signal. Instructions?"}
+{"drone_id": "Drone_9", "message": "Delivered emergency food pack. Suggested action?"}
+{"drone_id": "Drone_10", "message": "Exchange telemetry with Drone Drone_13. Awaiting further instructions."}
+{"drone_id": "Drone_2", "message": "Follow Drone Drone_11. Awaiting further instructions."}
+{"drone_id": "Drone_12", "message": "Victim signal detected during mapping mission. Requesting guidance."}
+{"drone_id": "Drone_9", "message": "Obstacle (building) detected 125m to the East. Next step?"}
+{"drone_id": "Drone_15", "message": "Reached surveillance point near building rooftop. Awaiting further instructions."}
+{"drone_id": "Drone_11", "message": "Reporting status: High wind alert. Instructions?"}
+{"drone_id": "Drone_11", "message": "Risk alert: High voltage zone nearby. Awaiting further instructions."}
+{"drone_id": "Drone_19", "message": "Reached surveillance point near bridge. Next step?"}
+{"drone_id": "Drone_2", "message": "Victim signal detected during rescue mission. Instructions?"}
+{"drone_id": "Drone_15", "message": "Follow Drone Drone_20. Instructions?"}
+{"drone_id": "Drone_9", "message": "Reporting status: GPS lost. Awaiting further instructions."}
+{"drone_id": "Drone_2", "message": "Risk alert: High voltage zone nearby. What should I do?"}
+{"drone_id": "Drone_20", "message": "Reporting status: Ice forming on rotors. How should I proceed?"}
+{"drone_id": "Drone_2", "message": "Risk alert: Unauthorized drone activity observed. Suggested action?"}
+{"drone_id": "Drone_13", "message": "Reached surveillance point near bridge. How should I proceed?"}
+{"drone_id": "Drone_6", "message": "Reporting status: High wind alert. Suggested action?"}
+{"drone_id": "Drone_13", "message": "Reached surveillance point near vehicle convoy. Awaiting further instructions."}
+{"drone_id": "Drone_13", "message": "Reached surveillance point near bridge. Instructions?"}
+{"drone_id": "Drone_6", "message": "Coordinate with Drone Drone_18. Suggested action?"}
+{"drone_id": "Drone_5", "message": "Reporting status: Low signal. How should I proceed?"}
+{"drone_id": "Drone_4", "message": "Risk alert: Unauthorized drone activity observed. What should I do?"}
+{"drone_id": "Drone_2", "message": "Obstacle (mountain) detected 140m to the South. What should I do?"}
+{"drone_id": "Drone_18", "message": "Victim signal detected during surveillance mission. Next step?"}
+{"drone_id": "Drone_6", "message": "Encountering strong wind. Instructions?"}
+{"drone_id": "Drone_1", "message": "Follow Drone Drone_2. Suggested action?"}
+{"drone_id": "Drone_15", "message": "Form formation with Drone Drone_12. What should I do?"}
+{"drone_id": "Drone_2", "message": "Encountering fog. Requesting guidance."}
+{"drone_id": "Drone_7", "message": "Reporting status: Obstacle detected. Instructions?"}
+{"drone_id": "Drone_9", "message": "Encountering snow. Next step?"}
+{"drone_id": "Drone_4", "message": "Encountering strong wind. How should I proceed?"}
+{"drone_id": "Drone_8", "message": "Encountering fog. Next step?"}
+{"drone_id": "Drone_1", "message": "Reached surveillance point near building rooftop. Suggested action?"}
+{"drone_id": "Drone_15", "message": "Reached surveillance point near forest clearing. How should I proceed?"}
+{"drone_id": "Drone_6", "message": "Delivered medical supplies. Awaiting further instructions."}
+{"drone_id": "Drone_12", "message": "Encountering fog. Awaiting further instructions."}
+{"drone_id": "Drone_14", "message": "Risk alert: High voltage zone nearby. How should I proceed?"}
+{"drone_id": "Drone_19", "message": "Victim signal detected during surveillance mission. Instructions?"}
+{"drone_id": "Drone_17", "message": "Risk alert: Unauthorized drone activity observed. What should I do?"}
+{"drone_id": "Drone_20", "message": "Exchange telemetry with Drone Drone_9. How should I proceed?"}
+{"drone_id": "Drone_6", "message": "Delivered documents. Instructions?"}
+{"drone_id": "Drone_19", "message": "Encountering snow. Instructions?"}
+{"drone_id": "Drone_9", "message": "Reporting status: Low signal. Instructions?"}
+{"drone_id": "Drone_15", "message": "Reporting status: Ice forming on rotors. Next step?"}
+{"drone_id": "Drone_6", "message": "Encountering strong wind. Awaiting further instructions."}
+{"drone_id": "Drone_5", "message": "Obstacle (antenna) detected 108m to the North-East. Requesting guidance."}
+{"drone_id": "Drone_6", "message": "Encountering clear skies. Requesting guidance."}
+{"drone_id": "Drone_17", "message": "Risk alert: Possible human presence detected. Next step?"}
+{"drone_id": "Drone_7", "message": "Encountering heavy rain. Requesting guidance."}
+{"drone_id": "Drone_10", "message": "Victim signal detected during rescue mission. Next step?"}
+{"drone_id": "Drone_2", "message": "Delivered emergency food pack. What should I do?"}
+{"drone_id": "Drone_18", "message": "Delivered sensor module. Awaiting further instructions."}
+{"drone_id": "Drone_9", "message": "Victim signal detected during rescue mission. Awaiting further instructions."}
+{"drone_id": "Drone_12", "message": "Victim signal detected during mapping mission. Awaiting further instructions."}
+{"drone_id": "Drone_13", "message": "Obstacle (mountain) detected 188m to the East. Instructions?"}
+{"drone_id": "Drone_6", "message": "Reporting status: Severe turbulence. Awaiting further instructions."}
+{"drone_id": "Drone_9", "message": "Delivered emergency food pack. What should I do?"}
+{"drone_id": "Drone_15", "message": "Reached surveillance point near vehicle convoy. Next step?"}
+{"drone_id": "Drone_6", "message": "Victim signal detected during surveillance mission. Instructions?"}
+{"drone_id": "Drone_17", "message": "Delivered electronics package. Next step?"}
+{"drone_id": "Drone_4", "message": "Obstacle (smoke) detected 37m to the North. What should I do?"}
+{"drone_id": "Drone_14", "message": "Reached surveillance point near building rooftop. Awaiting further instructions."}
+{"drone_id": "Drone_20", "message": "Delivered sensor module. What should I do?"}
+{"drone_id": "Drone_2", "message": "Reached surveillance point near building rooftop. How should I proceed?"}
+{"drone_id": "Drone_12", "message": "Obstacle (antenna) detected 115m to the South-West. What should I do?"}
+{"drone_id": "Drone_20", "message": "Encountering strong wind. Suggested action?"}
+{"drone_id": "Drone_10", "message": "Encountering fog. Suggested action?"}
+{"drone_id": "Drone_11", "message": "Delivered sensor module. Next step?"}
+{"drone_id": "Drone_16", "message": "Encountering snow. Suggested action?"}
+{"drone_id": "Drone_1", "message": "Reached surveillance point near vehicle convoy. Awaiting further instructions."}
+{"drone_id": "Drone_9", "message": "Victim signal detected during delivery mission. Instructions?"}
+{"drone_id": "Drone_3", "message": "Reporting status: Low signal. What should I do?"}
+{"drone_id": "Drone_5", "message": "Exchange telemetry with Drone Drone_2. Instructions?"}
+{"drone_id": "Drone_17", "message": "Reporting status: Payload dropped. Next step?"}
+{"drone_id": "Drone_7", "message": "Form formation with Drone Drone_6. Requesting guidance."}
+{"drone_id": "Drone_3", "message": "Obstacle (radio tower) detected 115m to the North. Suggested action?"}
+{"drone_id": "Drone_15", "message": "Victim signal detected during delivery mission. How should I proceed?"}
+{"drone_id": "Drone_6", "message": "Form formation with Drone Drone_12. Instructions?"}
+{"drone_id": "Drone_15", "message": "Delivered documents. What should I do?"}
+{"drone_id": "Drone_5", "message": "Victim signal detected during mapping mission. Next step?"}
+{"drone_id": "Drone_18", "message": "Maintain spacing with Drone Drone_8. Awaiting further instructions."}
+{"drone_id": "Drone_8", "message": "Form formation with Drone Drone_17. What should I do?"}
+{"drone_id": "Drone_4", "message": "Obstacle (smoke) detected 20m to the North-East. Instructions?"}
+{"drone_id": "Drone_12", "message": "Obstacle (radio tower) detected 165m to the North. Next step?"}
+{"drone_id": "Drone_15", "message": "Risk alert: Smoke detected - potential fire. Instructions?"}
+{"drone_id": "Drone_4", "message": "Exchange telemetry with Drone Drone_18. Suggested action?"}
+{"drone_id": "Drone_13", "message": "Reached surveillance point near forest clearing. Instructions?"}
+{"drone_id": "Drone_12", "message": "Delivered electronics package. Suggested action?"}
+{"drone_id": "Drone_10", "message": "Reached surveillance point near crowd gathering. Suggested action?"}
+{"drone_id": "Drone_7", "message": "Reached surveillance point near vehicle convoy. Requesting guidance."}
+{"drone_id": "Drone_19", "message": "Follow Drone Drone_18. Awaiting further instructions."}
+{"drone_id": "Drone_4", "message": "Follow Drone Drone_2. Next step?"}
+{"drone_id": "Drone_18", "message": "Victim signal detected during mapping mission. Suggested action?"}
+{"drone_id": "Drone_14", "message": "Exchange telemetry with Drone Drone_10. Next step?"}
+{"drone_id": "Drone_10", "message": "Delivered electronics package. Instructions?"}
+{"drone_id": "Drone_9", "message": "Obstacle (antenna) detected 11m to the South-West. Next step?"}
+{"drone_id": "Drone_15", "message": "Risk alert: Possible human presence detected. Requesting guidance."}
+{"drone_id": "Drone_12", "message": "Maintain spacing with Drone Drone_18. What should I do?"}
+{"drone_id": "Drone_16", "message": "Encountering fog. Next step?"}
+{"drone_id": "Drone_7", "message": "Victim signal detected during mapping mission. Requesting guidance."}
+{"drone_id": "Drone_14", "message": "Delivered medical supplies. Suggested action?"}
+{"drone_id": "Drone_17", "message": "Delivered electronics package. Awaiting further instructions."}
+{"drone_id": "Drone_2", "message": "Reporting status: Path clear. Awaiting further instructions."}
+{"drone_id": "Drone_13", "message": "Maintain spacing with Drone Drone_14. Next step?"}
+{"drone_id": "Drone_19", "message": "Risk alert: Unauthorized drone activity observed. Next step?"}
+{"drone_id": "Drone_11", "message": "Reporting status: Battery low. Suggested action?"}
+{"drone_id": "Drone_8", "message": "Reporting status: Payload dropped. Suggested action?"}
+{"drone_id": "Drone_7", "message": "Coordinate with Drone Drone_14. Requesting guidance."}
+{"drone_id": "Drone_16", "message": "Risk alert: Possible human presence detected. Suggested action?"}
+{"drone_id": "Drone_15", "message": "Obstacle (tree) detected 151m to the West. Requesting guidance."}
+{"drone_id": "Drone_13", "message": "Encountering strong wind. What should I do?"}
+{"drone_id": "Drone_11", "message": "Encountering fog. Requesting guidance."}
+{"drone_id": "Drone_13", "message": "Obstacle (smoke) detected 22m to the North. Requesting guidance."}
+{"drone_id": "Drone_13", "message": "Reached surveillance point near crowd gathering. Awaiting further instructions."}
+{"drone_id": "Drone_8", "message": "Delivered electronics package. Awaiting further instructions."}
+{"drone_id": "Drone_5", "message": "Form formation with Drone Drone_16. Awaiting further instructions."}
+{"drone_id": "Drone_18", "message": "Obstacle (tree) detected 118m to the North-East. Suggested action?"}
+{"drone_id": "Drone_6", "message": "Reporting status: Battery low. What should I do?"}
+{"drone_id": "Drone_7", "message": "Follow Drone Drone_8. Instructions?"}
+{"drone_id": "Drone_17", "message": "Encountering strong wind. Suggested action?"}
+{"drone_id": "Drone_10", "message": "Obstacle (power line) detected 17m to the North-East. Awaiting further instructions."}
+{"drone_id": "Drone_3", "message": "Risk alert: Unauthorized drone activity observed. What should I do?"}
+{"drone_id": "Drone_2", "message": "Delivered electronics package. What should I do?"}
+{"drone_id": "Drone_19", "message": "Encountering heavy rain. Suggested action?"}
+{"drone_id": "Drone_2", "message": "Obstacle (bird) detected 8m to the North-East. Suggested action?"}
+{"drone_id": "Drone_8", "message": "Encountering clear skies. Suggested action?"}
+{"drone_id": "Drone_13", "message": "Victim signal detected during rescue mission. What should I do?"}
+{"drone_id": "Drone_16", "message": "Encountering heavy rain. Suggested action?"}
+{"drone_id": "Drone_5", "message": "Reached surveillance point near bridge. Suggested action?"}
+{"drone_id": "Drone_9", "message": "Reporting status: High wind alert. What should I do?"}
+{"drone_id": "Drone_3", "message": "Reporting status: GPS lost. Instructions?"}
+{"drone_id": "Drone_18", "message": "Encountering heavy rain. What should I do?"}
+{"drone_id": "Drone_4", "message": "Reached surveillance point near bridge. Instructions?"}
+{"drone_id": "Drone_5", "message": "Victim signal detected during delivery mission. Suggested action?"}
+{"drone_id": "Drone_20", "message": "Reached surveillance point near bridge. Instructions?"}
+{"drone_id": "Drone_11", "message": "Reporting status: GPS lost. Requesting guidance."}
+{"drone_id": "Drone_11", "message": "Victim signal detected during mapping mission. Awaiting further instructions."}
+{"drone_id": "Drone_20", "message": "Victim signal detected during delivery mission. Requesting guidance."}
+{"drone_id": "Drone_3", "message": "Obstacle (antenna) detected 23m to the North. Requesting guidance."}
+{"drone_id": "Drone_19", "message": "Reached surveillance point near building rooftop. Instructions?"}
+{"drone_id": "Drone_17", "message": "Reporting status: Battery low. Requesting guidance."}
+{"drone_id": "Drone_15", "message": "Risk alert: Unauthorized drone activity observed. Instructions?"}
+{"drone_id": "Drone_2", "message": "Reached surveillance point near bridge. Next step?"}
+{"drone_id": "Drone_2", "message": "Obstacle (bird) detected 97m to the North-East. How should I proceed?"}
+{"drone_id": "Drone_20", "message": "Encountering fog. Suggested action?"}
+{"drone_id": "Drone_18", "message": "Reporting status: GPS lost. Awaiting further instructions."}
+{"drone_id": "Drone_8", "message": "Obstacle (mountain) detected 59m to the West. How should I proceed?"}
+{"drone_id": "Drone_16", "message": "Encountering heavy rain. Awaiting further instructions."}
+{"drone_id": "Drone_18", "message": "Risk alert: Unauthorized drone activity observed. How should I proceed?"}
+{"drone_id": "Drone_12", "message": "Reached surveillance point near crowd gathering. What should I do?"}
+{"drone_id": "Drone_8", "message": "Maintain spacing with Drone Drone_12. Next step?"}
+{"drone_id": "Drone_1", "message": "Encountering clear skies. Requesting guidance."}
+{"drone_id": "Drone_10", "message": "Risk alert: Unauthorized drone activity observed. How should I proceed?"}
+{"drone_id": "Drone_18", "message": "Risk alert: Unstable wind conditions in sector 4. Next step?"}
+{"drone_id": "Drone_5", "message": "Encountering snow. Awaiting further instructions."}
+{"drone_id": "Drone_6", "message": "Encountering clear skies. Requesting guidance."}
+{"drone_id": "Drone_13", "message": "Victim signal detected during surveillance mission. Awaiting further instructions."}
+{"drone_id": "Drone_16", "message": "Maintain spacing with Drone Drone_8. Next step?"}
+{"drone_id": "Drone_13", "message": "Reporting status: Ice forming on rotors. Requesting guidance."}
+{"drone_id": "Drone_20", "message": "Obstacle (bird) detected 39m to the South. Requesting guidance."}
+{"drone_id": "Drone_16", "message": "Delivered medical supplies. How should I proceed?"}
+{"drone_id": "Drone_11", "message": "Reporting status: Path clear. How should I proceed?"}
+{"drone_id": "Drone_9", "message": "Obstacle (radio tower) detected 66m to the North. Awaiting further instructions."}
+{"drone_id": "Drone_6", "message": "Reporting status: Low signal. Next step?"}
+{"drone_id": "Drone_8", "message": "Risk alert: Smoke detected - potential fire. Awaiting further instructions."}
+{"drone_id": "Drone_19", "message": "Victim signal detected during surveillance mission. Next step?"}
+{"drone_id": "Drone_8", "message": "Encountering clear skies. Next step?"}
+{"drone_id": "Drone_5", "message": "Victim signal detected during delivery mission. Suggested action?"}
+{"drone_id": "Drone_11", "message": "Risk alert: Smoke detected - potential fire. Awaiting further instructions."}
+{"drone_id": "Drone_7", "message": "Form formation with Drone Drone_3. What should I do?"}
+{"drone_id": "Drone_4", "message": "Encountering fog. Instructions?"}
+{"drone_id": "Drone_17", "message": "Reached surveillance point near bridge. Awaiting further instructions."}
+{"drone_id": "Drone_16", "message": "Encountering strong wind. Requesting guidance."}
+{"drone_id": "Drone_12", "message": "Encountering strong wind. Instructions?"}
+{"drone_id": "Drone_12", "message": "Reached surveillance point near building rooftop. How should I proceed?"}
+{"drone_id": "Drone_17", "message": "Obstacle (building) detected 71m to the East. Suggested action?"}
+{"drone_id": "Drone_17", "message": "Delivered emergency food pack. Next step?"}
+{"drone_id": "Drone_20", "message": "Reporting status: Low signal. Next step?"}
+{"drone_id": "Drone_4", "message": "Reached surveillance point near bridge. Requesting guidance."}
+{"drone_id": "Drone_7", "message": "Follow Drone Drone_5. Suggested action?"}
+{"drone_id": "Drone_12", "message": "Obstacle (tree) detected 137m to the East. Suggested action?"}
+{"drone_id": "Drone_4", "message": "Reached surveillance point near bridge. How should I proceed?"}
+{"drone_id": "Drone_14", "message": "Delivered sensor module. Awaiting further instructions."}
+{"drone_id": "Drone_6", "message": "Encountering strong wind. Awaiting further instructions."}
+{"drone_id": "Drone_13", "message": "Reporting status: Severe turbulence. Instructions?"}
+{"drone_id": "Drone_3", "message": "Reached surveillance point near forest clearing. Next step?"}
+{"drone_id": "Drone_14", "message": "Follow Drone Drone_19. What should I do?"}
+{"drone_id": "Drone_1", "message": "Reached surveillance point near vehicle convoy. Next step?"}
+{"drone_id": "Drone_4", "message": "Reporting status: High wind alert. What should I do?"}
+{"drone_id": "Drone_4", "message": "Reached surveillance point near bridge. Next step?"}
+{"drone_id": "Drone_15", "message": "Victim signal detected during surveillance mission. Awaiting further instructions."}
+{"drone_id": "Drone_14", "message": "Encountering clear skies. Instructions?"}
+{"drone_id": "Drone_7", "message": "Victim signal detected during rescue mission. Instructions?"}
+{"drone_id": "Drone_9", "message": "Obstacle (antenna) detected 136m to the South-West. How should I proceed?"}
+{"drone_id": "Drone_18", "message": "Victim signal detected during delivery mission. What should I do?"}
+{"drone_id": "Drone_20", "message": "Delivered emergency food pack. Next step?"}
+{"drone_id": "Drone_19", "message": "Victim signal detected during delivery mission. How should I proceed?"}
+{"drone_id": "Drone_2", "message": "Victim signal detected during mapping mission. Instructions?"}
+{"drone_id": "Drone_12", "message": "Risk alert: Smoke detected - potential fire. Awaiting further instructions."}
+{"drone_id": "Drone_6", "message": "Encountering strong wind. What should I do?"}
+{"drone_id": "Drone_11", "message": "Victim signal detected during surveillance mission. Instructions?"}
+{"drone_id": "Drone_1", "message": "Risk alert: Unauthorized drone activity observed. Suggested action?"}
+{"drone_id": "Drone_6", "message": "Exchange telemetry with Drone Drone_17. Awaiting further instructions."}
+{"drone_id": "Drone_8", "message": "Obstacle (radio tower) detected 106m to the North. Awaiting further instructions."}
+{"drone_id": "Drone_15", "message": "Reporting status: Obstacle detected. What should I do?"}
+{"drone_id": "Drone_4", "message": "Encountering snow. Instructions?"}
+{"drone_id": "Drone_15", "message": "Encountering heavy rain. Suggested action?"}
+{"drone_id": "Drone_14", "message": "Victim signal detected during rescue mission. What should I do?"}
+{"drone_id": "Drone_16", "message": "Encountering clear skies. Requesting guidance."}
+{"drone_id": "Drone_18", "message": "Reporting status: Payload dropped. Awaiting further instructions."}
+{"drone_id": "Drone_8", "message": "Risk alert: Possible human presence detected. Instructions?"}
+{"drone_id": "Drone_8", "message": "Risk alert: High voltage zone nearby. Next step?"}
+{"drone_id": "Drone_3", "message": "Reached surveillance point near crowd gathering. Requesting guidance."}
+{"drone_id": "Drone_16", "message": "Reporting status: Battery low. Awaiting further instructions."}
+{"drone_id": "Drone_17", "message": "Obstacle (antenna) detected 190m to the East. Next step?"}
+{"drone_id": "Drone_18", "message": "Reached surveillance point near building rooftop. Instructions?"}
+{"drone_id": "Drone_12", "message": "Reached surveillance point near vehicle convoy. Suggested action?"}
+{"drone_id": "Drone_17", "message": "Reached surveillance point near building rooftop. How should I proceed?"}
+{"drone_id": "Drone_9", "message": "Reporting status: GPS lost. Requesting guidance."}
+{"drone_id": "Drone_8", "message": "Obstacle (tree) detected 164m to the North-East. Awaiting further instructions."}
+{"drone_id": "Drone_7", "message": "Delivered documents. Awaiting further instructions."}
+{"drone_id": "Drone_9", "message": "Maintain spacing with Drone Drone_11. Awaiting further instructions."}
+{"drone_id": "Drone_1", "message": "Reached surveillance point near bridge. Requesting guidance."}
+{"drone_id": "Drone_8", "message": "Risk alert: Unstable wind conditions in sector 4. Next step?"}
+{"drone_id": "Drone_13", "message": "Victim signal detected during rescue mission. Suggested action?"}
+{"drone_id": "Drone_5", "message": "Delivered sensor module. What should I do?"}
+{"drone_id": "Drone_14", "message": "Reporting status: Payload dropped. Awaiting further instructions."}
+{"drone_id": "Drone_1", "message": "Reached surveillance point near building rooftop. Instructions?"}
+{"drone_id": "Drone_3", "message": "Encountering clear skies. How should I proceed?"}
+{"drone_id": "Drone_16", "message": "Encountering snow. How should I proceed?"}
+{"drone_id": "Drone_3", "message": "Victim signal detected during mapping mission. Awaiting further instructions."}
+{"drone_id": "Drone_15", "message": "Maintain spacing with Drone Drone_18. Next step?"}
+{"drone_id": "Drone_5", "message": "Obstacle (building) detected 151m to the South-West. Next step?"}
+{"drone_id": "Drone_18", "message": "Delivered sensor module. Requesting guidance."}
+{"drone_id": "Drone_12", "message": "Reporting status: High wind alert. Next step?"}
+{"drone_id": "Drone_16", "message": "Reached surveillance point near building rooftop. Requesting guidance."}
+{"drone_id": "Drone_20", "message": "Encountering strong wind. Instructions?"}
+{"drone_id": "Drone_20", "message": "Form formation with Drone Drone_3. Suggested action?"}
+{"drone_id": "Drone_5", "message": "Reached surveillance point near bridge. Next step?"}
+{"drone_id": "Drone_13", "message": "Encountering heavy rain. Instructions?"}
+{"drone_id": "Drone_9", "message": "Risk alert: Possible human presence detected. Instructions?"}
+{"drone_id": "Drone_7", "message": "Obstacle (power line) detected 56m to the South-West. Instructions?"}
+{"drone_id": "Drone_7", "message": "Follow Drone Drone_16. Next step?"}
+{"drone_id": "Drone_19", "message": "Victim signal detected during surveillance mission. Suggested action?"}
+{"drone_id": "Drone_6", "message": "Risk alert: Smoke detected - potential fire. Next step?"}
+{"drone_id": "Drone_16", "message": "Encountering fog. Instructions?"}
+{"drone_id": "Drone_1", "message": "Encountering snow. Next step?"}
+{"drone_id": "Drone_18", "message": "Reached surveillance point near crowd gathering. What should I do?"}
+{"drone_id": "Drone_2", "message": "Reached surveillance point near building rooftop. Awaiting further instructions."}
+{"drone_id": "Drone_11", "message": "Reached surveillance point near vehicle convoy. What should I do?"}
+{"drone_id": "Drone_13", "message": "Victim signal detected during rescue mission. What should I do?"}
+{"drone_id": "Drone_1", "message": "Victim signal detected during surveillance mission. Next step?"}
+{"drone_id": "Drone_3", "message": "Risk alert: Possible human presence detected. Awaiting further instructions."}
+{"drone_id": "Drone_5", "message": "Encountering strong wind. Suggested action?"}
+{"drone_id": "Drone_3", "message": "Follow Drone Drone_18. How should I proceed?"}
+{"drone_id": "Drone_9", "message": "Encountering snow. Requesting guidance."}
+{"drone_id": "Drone_14", "message": "Obstacle (mountain) detected 77m to the North. What should I do?"}
+{"drone_id": "Drone_5", "message": "Follow Drone Drone_13. How should I proceed?"}
+{"drone_id": "Drone_10", "message": "Encountering strong wind. Suggested action?"}
+{"drone_id": "Drone_4", "message": "Obstacle (radio tower) detected 87m to the East. Suggested action?"}
+{"drone_id": "Drone_19", "message": "Exchange telemetry with Drone Drone_7. What should I do?"}
+{"drone_id": "Drone_16", "message": "Obstacle (radio tower) detected 180m to the South-West. Requesting guidance."}
+{"drone_id": "Drone_7", "message": "Delivered documents. What should I do?"}
+{"drone_id": "Drone_2", "message": "Victim signal detected during rescue mission. Instructions?"}
+{"drone_id": "Drone_3", "message": "Delivered emergency food pack. Requesting guidance."}
+{"drone_id": "Drone_10", "message": "Encountering heavy rain. Instructions?"}
+{"drone_id": "Drone_3", "message": "Reporting status: Battery low. What should I do?"}
+{"drone_id": "Drone_9", "message": "Delivered sensor module. Next step?"}
+{"drone_id": "Drone_1", "message": "Risk alert: Unstable wind conditions in sector 4. Suggested action?"}
+{"drone_id": "Drone_8", "message": "Obstacle (antenna) detected 32m to the South. Requesting guidance."}
+{"drone_id": "Drone_8", "message": "Risk alert: High voltage zone nearby. How should I proceed?"}
+{"drone_id": "Drone_3", "message": "Victim signal detected during rescue mission. Awaiting further instructions."}
+{"drone_id": "Drone_19", "message": "Obstacle (tree) detected 79m to the North-East. How should I proceed?"}
+{"drone_id": "Drone_14", "message": "Encountering clear skies. Requesting guidance."}
+{"drone_id": "Drone_13", "message": "Reporting status: Ice forming on rotors. What should I do?"}
+{"drone_id": "Drone_16", "message": "Obstacle (bird) detected 46m to the North-East. Next step?"}
+{"drone_id": "Drone_9", "message": "Reporting status: High wind alert. Next step?"}
+{"drone_id": "Drone_10", "message": "Obstacle (antenna) detected 155m to the North-East. What should I do?"}
+{"drone_id": "Drone_18", "message": "Obstacle (tree) detected 151m to the South. Instructions?"}
+{"drone_id": "Drone_12", "message": "Reached surveillance point near crowd gathering. How should I proceed?"}
+{"drone_id": "Drone_6", "message": "Encountering fog. Requesting guidance."}
+{"drone_id": "Drone_5", "message": "Encountering clear skies. Requesting guidance."}
+{"drone_id": "Drone_15", "message": "Reporting status: Low signal. Awaiting further instructions."}
+{"drone_id": "Drone_8", "message": "Victim signal detected during mapping mission. What should I do?"}
+{"drone_id": "Drone_19", "message": "Delivered documents. Next step?"}
+{"drone_id": "Drone_11", "message": "Delivered sensor module. Instructions?"}
+{"drone_id": "Drone_4", "message": "Reached surveillance point near vehicle convoy. Requesting guidance."}
+{"drone_id": "Drone_15", "message": "Delivered medical supplies. Awaiting further instructions."}
+{"drone_id": "Drone_5", "message": "Obstacle (bird) detected 72m to the South. Awaiting further instructions."}
+{"drone_id": "Drone_4", "message": "Encountering strong wind. Next step?"}
+{"drone_id": "Drone_9", "message": "Reporting status: High wind alert. Requesting guidance."}
+{"drone_id": "Drone_4", "message": "Follow Drone Drone_20. Suggested action?"}
+{"drone_id": "Drone_5", "message": "Risk alert: Unstable wind conditions in sector 4. Suggested action?"}
+{"drone_id": "Drone_1", "message": "Victim signal detected during rescue mission. What should I do?"}
+{"drone_id": "Drone_14", "message": "Obstacle (power line) detected 135m to the North-East. Awaiting further instructions."}
+{"drone_id": "Drone_14", "message": "Reporting status: Low signal. Next step?"}
+{"drone_id": "Drone_4", "message": "Follow Drone Drone_11. Requesting guidance."}
+{"drone_id": "Drone_18", "message": "Risk alert: Unstable wind conditions in sector 4. How should I proceed?"}
+{"drone_id": "Drone_15", "message": "Delivered electronics package. Instructions?"}
+{"drone_id": "Drone_2", "message": "Delivered medical supplies. Next step?"}
+{"drone_id": "Drone_5", "message": "Victim signal detected during mapping mission. Suggested action?"}
+{"drone_id": "Drone_15", "message": "Coordinate with Drone Drone_7. Next step?"}
+{"drone_id": "Drone_12", "message": "Delivered emergency food pack. What should I do?"}
+{"drone_id": "Drone_18", "message": "Encountering strong wind. Suggested action?"}
+{"drone_id": "Drone_3", "message": "Obstacle (smoke) detected 36m to the West. Instructions?"}
+{"drone_id": "Drone_3", "message": "Encountering strong wind. Requesting guidance."}
+{"drone_id": "Drone_8", "message": "Encountering clear skies. Awaiting further instructions."}
+{"drone_id": "Drone_6", "message": "Reached surveillance point near forest clearing. Next step?"}
+{"drone_id": "Drone_12", "message": "Encountering clear skies. Instructions?"}
+{"drone_id": "Drone_16", "message": "Obstacle (antenna) detected 37m to the North-East. Instructions?"}
+{"drone_id": "Drone_19", "message": "Victim signal detected during mapping mission. Requesting guidance."}
+{"drone_id": "Drone_19", "message": "Risk alert: Unauthorized drone activity observed. Requesting guidance."}
+{"drone_id": "Drone_6", "message": "Form formation with Drone Drone_16. What should I do?"}
+{"drone_id": "Drone_6", "message": "Follow Drone Drone_18. How should I proceed?"}
+{"drone_id": "Drone_1", "message": "Reporting status: Ice forming on rotors. Awaiting further instructions."}
+{"drone_id": "Drone_10", "message": "Reached surveillance point near bridge. How should I proceed?"}
+{"drone_id": "Drone_14", "message": "Victim signal detected during surveillance mission. How should I proceed?"}
+{"drone_id": "Drone_6", "message": "Victim signal detected during surveillance mission. Requesting guidance."}
+{"drone_id": "Drone_14", "message": "Delivered sensor module. What should I do?"}
+{"drone_id": "Drone_7", "message": "Delivered electronics package. Instructions?"}
+{"drone_id": "Drone_19", "message": "Reporting status: Obstacle detected. What should I do?"}
+{"drone_id": "Drone_2", "message": "Reporting status: Low signal. Suggested action?"}
+{"drone_id": "Drone_6", "message": "Risk alert: Smoke detected - potential fire. Awaiting further instructions."}
+{"drone_id": "Drone_18", "message": "Victim signal detected during rescue mission. Instructions?"}
+{"drone_id": "Drone_20", "message": "Obstacle (smoke) detected 85m to the East. Requesting guidance."}
+{"drone_id": "Drone_2", "message": "Encountering clear skies. Suggested action?"}
+{"drone_id": "Drone_14", "message": "Delivered electronics package. Suggested action?"}
+{"drone_id": "Drone_14", "message": "Delivered emergency food pack. What should I do?"}
+{"drone_id": "Drone_7", "message": "Encountering strong wind. Suggested action?"}
+{"drone_id": "Drone_6", "message": "Reached surveillance point near building rooftop. Awaiting further instructions."}
+{"drone_id": "Drone_11", "message": "Encountering strong wind. Requesting guidance."}
+{"drone_id": "Drone_12", "message": "Risk alert: High voltage zone nearby. Next step?"}
+{"drone_id": "Drone_14", "message": "Delivered electronics package. What should I do?"}
+{"drone_id": "Drone_7", "message": "Reporting status: Battery low. Next step?"}
+{"drone_id": "Drone_9", "message": "Victim signal detected during delivery mission. Requesting guidance."}
+{"drone_id": "Drone_13", "message": "Exchange telemetry with Drone Drone_20. Next step?"}
+{"drone_id": "Drone_1", "message": "Form formation with Drone Drone_14. How should I proceed?"}
+{"drone_id": "Drone_7", "message": "Victim signal detected during delivery mission. Suggested action?"}
+{"drone_id": "Drone_2", "message": "Victim signal detected during rescue mission. Suggested action?"}
+{"drone_id": "Drone_10", "message": "Victim signal detected during surveillance mission. Next step?"}
+{"drone_id": "Drone_5", "message": "Risk alert: High voltage zone nearby. How should I proceed?"}
+{"drone_id": "Drone_16", "message": "Maintain spacing with Drone Drone_19. Awaiting further instructions."}
+{"drone_id": "Drone_19", "message": "Delivered emergency food pack. Instructions?"}
+{"drone_id": "Drone_17", "message": "Coordinate with Drone Drone_7. Suggested action?"}
+{"drone_id": "Drone_16", "message": "Obstacle (power line) detected 126m to the South. How should I proceed?"}
+{"drone_id": "Drone_4", "message": "Obstacle (bird) detected 196m to the East. Awaiting further instructions."}
+{"drone_id": "Drone_1", "message": "Follow Drone Drone_3. What should I do?"}
+{"drone_id": "Drone_11", "message": "Reached surveillance point near crowd gathering. Suggested action?"}
+{"drone_id": "Drone_2", "message": "Reached surveillance point near forest clearing. Instructions?"}
+{"drone_id": "Drone_4", "message": "Reporting status: High wind alert. Requesting guidance."}
+{"drone_id": "Drone_17", "message": "Reached surveillance point near forest clearing. Suggested action?"}
+{"drone_id": "Drone_10", "message": "Risk alert: Smoke detected - potential fire. What should I do?"}
+{"drone_id": "Drone_4", "message": "Encountering clear skies. How should I proceed?"}
+{"drone_id": "Drone_6", "message": "Encountering heavy rain. What should I do?"}
+{"drone_id": "Drone_5", "message": "Reached surveillance point near building rooftop. What should I do?"}
+{"drone_id": "Drone_10", "message": "Delivered emergency food pack. Instructions?"}
+{"drone_id": "Drone_18", "message": "Reached surveillance point near crowd gathering. Instructions?"}
+{"drone_id": "Drone_5", "message": "Reached surveillance point near building rooftop. Awaiting further instructions."}
+{"drone_id": "Drone_3", "message": "Reporting status: Battery low. Instructions?"}
+{"drone_id": "Drone_11", "message": "Encountering snow. Suggested action?"}
+{"drone_id": "Drone_15", "message": "Obstacle (bird) detected 127m to the South-West. Awaiting further instructions."}
+{"drone_id": "Drone_12", "message": "Risk alert: Smoke detected - potential fire. What should I do?"}
+{"drone_id": "Drone_11", "message": "Reached surveillance point near crowd gathering. Awaiting further instructions."}
+{"drone_id": "Drone_14", "message": "Delivered documents. Suggested action?"}
+{"drone_id": "Drone_15", "message": "Reached surveillance point near vehicle convoy. Instructions?"}
+{"drone_id": "Drone_10", "message": "Coordinate with Drone Drone_1. Instructions?"}
+{"drone_id": "Drone_1", "message": "Obstacle (bird) detected 146m to the South-West. What should I do?"}
+{"drone_id": "Drone_15", "message": "Encountering heavy rain. Next step?"}
+{"drone_id": "Drone_7", "message": "Reached surveillance point near vehicle convoy. Next step?"}
+{"drone_id": "Drone_4", "message": "Victim signal detected during rescue mission. Suggested action?"}
+{"drone_id": "Drone_4", "message": "Victim signal detected during rescue mission. Awaiting further instructions."}
+{"drone_id": "Drone_13", "message": "Risk alert: Possible human presence detected. How should I proceed?"}
+{"drone_id": "Drone_9", "message": "Delivered medical supplies. What should I do?"}
+{"drone_id": "Drone_4", "message": "Victim signal detected during mapping mission. Suggested action?"}
+{"drone_id": "Drone_16", "message": "Victim signal detected during mapping mission. Awaiting further instructions."}
+{"drone_id": "Drone_11", "message": "Coordinate with Drone Drone_17. How should I proceed?"}
+{"drone_id": "Drone_7", "message": "Coordinate with Drone Drone_16. What should I do?"}
+{"drone_id": "Drone_8", "message": "Maintain spacing with Drone Drone_16. Instructions?"}
+{"drone_id": "Drone_4", "message": "Reached surveillance point near crowd gathering. How should I proceed?"}
+{"drone_id": "Drone_17", "message": "Reporting status: Obstacle detected. How should I proceed?"}
+{"drone_id": "Drone_14", "message": "Risk alert: Unauthorized drone activity observed. How should I proceed?"}
+{"drone_id": "Drone_2", "message": "Obstacle (smoke) detected 6m to the West. What should I do?"}
+{"drone_id": "Drone_18", "message": "Risk alert: Unstable wind conditions in sector 4. Awaiting further instructions."}
+{"drone_id": "Drone_20", "message": "Delivered documents. Instructions?"}
+{"drone_id": "Drone_14", "message": "Delivered sensor module. What should I do?"}
+{"drone_id": "Drone_20", "message": "Risk alert: Smoke detected - potential fire. How should I proceed?"}
+{"drone_id": "Drone_8", "message": "Encountering strong wind. What should I do?"}
+{"drone_id": "Drone_1", "message": "Encountering clear skies. Requesting guidance."}
+{"drone_id": "Drone_8", "message": "Exchange telemetry with Drone Drone_10. What should I do?"}
+{"drone_id": "Drone_5", "message": "Reporting status: Payload dropped. Instructions?"}
+{"drone_id": "Drone_17", "message": "Reporting status: Obstacle detected. Requesting guidance."}
+{"drone_id": "Drone_14", "message": "Encountering heavy rain. Instructions?"}
+{"drone_id": "Drone_10", "message": "Encountering heavy rain. How should I proceed?"}
+{"drone_id": "Drone_10", "message": "Delivered medical supplies. Requesting guidance."}
+{"drone_id": "Drone_20", "message": "Risk alert: Unstable wind conditions in sector 4. Requesting guidance."}
+{"drone_id": "Drone_13", "message": "Risk alert: Smoke detected - potential fire. Awaiting further instructions."}
+{"drone_id": "Drone_14", "message": "Victim signal detected during surveillance mission. Next step?"}
+{"drone_id": "Drone_12", "message": "Encountering strong wind. Suggested action?"}
+{"drone_id": "Drone_9", "message": "Reached surveillance point near vehicle convoy. Awaiting further instructions."}
+{"drone_id": "Drone_14", "message": "Encountering heavy rain. Requesting guidance."}
+{"drone_id": "Drone_12", "message": "Delivered electronics package. Requesting guidance."}
+{"drone_id": "Drone_8", "message": "Risk alert: Smoke detected - potential fire. How should I proceed?"}
+{"drone_id": "Drone_14", "message": "Victim signal detected during surveillance mission. What should I do?"}
+{"drone_id": "Drone_7", "message": "Victim signal detected during surveillance mission. How should I proceed?"}
+{"drone_id": "Drone_6", "message": "Delivered documents. Next step?"}
+{"drone_id": "Drone_11", "message": "Encountering clear skies. What should I do?"}
+{"drone_id": "Drone_5", "message": "Obstacle (drone) detected 74m to the North. Requesting guidance."}
+{"drone_id": "Drone_9", "message": "Victim signal detected during surveillance mission. What should I do?"}
+{"drone_id": "Drone_14", "message": "Obstacle (building) detected 48m to the West. Next step?"}
+{"drone_id": "Drone_8", "message": "Obstacle (radio tower) detected 11m to the North-East. Awaiting further instructions."}
+{"drone_id": "Drone_13", "message": "Risk alert: Possible human presence detected. What should I do?"}
+{"drone_id": "Drone_17", "message": "Encountering strong wind. Awaiting further instructions."}
+{"drone_id": "Drone_16", "message": "Obstacle (mountain) detected 117m to the West. Awaiting further instructions."}
+{"drone_id": "Drone_8", "message": "Victim signal detected during surveillance mission. Instructions?"}
+{"drone_id": "Drone_7", "message": "Encountering heavy rain. Awaiting further instructions."}
+{"drone_id": "Drone_5", "message": "Risk alert: High voltage zone nearby. How should I proceed?"}
+{"drone_id": "Drone_11", "message": "Form formation with Drone Drone_10. What should I do?"}
+{"drone_id": "Drone_11", "message": "Delivered medical supplies. Suggested action?"}
+{"drone_id": "Drone_5", "message": "Risk alert: Smoke detected - potential fire. Suggested action?"}
+{"drone_id": "Drone_6", "message": "Obstacle (building) detected 143m to the East. How should I proceed?"}
+{"drone_id": "Drone_8", "message": "Reporting status: Severe turbulence. Next step?"}
+{"drone_id": "Drone_13", "message": "Reporting status: Payload dropped. What should I do?"}
+{"drone_id": "Drone_5", "message": "Obstacle (mountain) detected 124m to the North. Suggested action?"}
+{"drone_id": "Drone_19", "message": "Exchange telemetry with Drone Drone_13. Requesting guidance."}
+{"drone_id": "Drone_12", "message": "Delivered electronics package. What should I do?"}
+{"drone_id": "Drone_16", "message": "Reached surveillance point near vehicle convoy. Instructions?"}
+{"drone_id": "Drone_5", "message": "Coordinate with Drone Drone_16. Instructions?"}
+{"drone_id": "Drone_8", "message": "Reached surveillance point near building rooftop. Next step?"}
+{"drone_id": "Drone_13", "message": "Encountering strong wind. Awaiting further instructions."}
+{"drone_id": "Drone_14", "message": "Delivered electronics package. Instructions?"}
+{"drone_id": "Drone_18", "message": "Obstacle (drone) detected 131m to the North. What should I do?"}
+{"drone_id": "Drone_7", "message": "Delivered sensor module. How should I proceed?"}
+{"drone_id": "Drone_10", "message": "Risk alert: High voltage zone nearby. What should I do?"}
+{"drone_id": "Drone_19", "message": "Reporting status: Obstacle detected. Awaiting further instructions."}
+{"drone_id": "Drone_11", "message": "Reached surveillance point near bridge. What should I do?"}
+{"drone_id": "Drone_11", "message": "Encountering snow. Requesting guidance."}
+{"drone_id": "Drone_15", "message": "Form formation with Drone Drone_13. Suggested action?"}
+{"drone_id": "Drone_12", "message": "Reached surveillance point near building rooftop. How should I proceed?"}
+{"drone_id": "Drone_1", "message": "Risk alert: Possible human presence detected. Awaiting further instructions."}
+{"drone_id": "Drone_13", "message": "Reached surveillance point near bridge. Next step?"}
+{"drone_id": "Drone_14", "message": "Delivered medical supplies. Suggested action?"}
+{"drone_id": "Drone_19", "message": "Reached surveillance point near forest clearing. Suggested action?"}
+{"drone_id": "Drone_14", "message": "Obstacle (power line) detected 82m to the South-West. Suggested action?"}
+{"drone_id": "Drone_5", "message": "Obstacle (building) detected 200m to the South-West. Next step?"}
+{"drone_id": "Drone_4", "message": "Encountering snow. Awaiting further instructions."}
+{"drone_id": "Drone_16", "message": "Risk alert: Possible human presence detected. How should I proceed?"}
+{"drone_id": "Drone_14", "message": "Obstacle (smoke) detected 168m to the North-East. Requesting guidance."}
+{"drone_id": "Drone_4", "message": "Encountering clear skies. Suggested action?"}
+{"drone_id": "Drone_12", "message": "Reached surveillance point near building rooftop. Instructions?"}
+{"drone_id": "Drone_2", "message": "Victim signal detected during surveillance mission. Awaiting further instructions."}
+{"drone_id": "Drone_3", "message": "Risk alert: Unauthorized drone activity observed. How should I proceed?"}
+{"drone_id": "Drone_16", "message": "Victim signal detected during surveillance mission. What should I do?"}
+{"drone_id": "Drone_20", "message": "Reporting status: Battery low. What should I do?"}
+{"drone_id": "Drone_11", "message": "Delivered emergency food pack. Requesting guidance."}
+{"drone_id": "Drone_4", "message": "Victim signal detected during surveillance mission. Instructions?"}
+{"drone_id": "Drone_2", "message": "Encountering strong wind. Requesting guidance."}
+{"drone_id": "Drone_20", "message": "Obstacle (radio tower) detected 153m to the North. Suggested action?"}
+{"drone_id": "Drone_18", "message": "Risk alert: Smoke detected - potential fire. What should I do?"}
+{"drone_id": "Drone_1", "message": "Obstacle (antenna) detected 86m to the South-West. Next step?"}
+{"drone_id": "Drone_19", "message": "Encountering heavy rain. Suggested action?"}
+{"drone_id": "Drone_11", "message": "Delivered emergency food pack. Suggested action?"}
+{"drone_id": "Drone_15", "message": "Victim signal detected during delivery mission. How should I proceed?"}
+{"drone_id": "Drone_12", "message": "Victim signal detected during surveillance mission. Next step?"}
+{"drone_id": "Drone_13", "message": "Form formation with Drone Drone_10. What should I do?"}
+{"drone_id": "Drone_10", "message": "Encountering fog. What should I do?"}
+{"drone_id": "Drone_7", "message": "Obstacle (antenna) detected 109m to the North-East. How should I proceed?"}
+{"drone_id": "Drone_10", "message": "Delivered electronics package. How should I proceed?"}
+{"drone_id": "Drone_14", "message": "Delivered electronics package. Instructions?"}
+{"drone_id": "Drone_10", "message": "Reporting status: High wind alert. Requesting guidance."}
+{"drone_id": "Drone_10", "message": "Reporting status: High wind alert. Suggested action?"}
+{"drone_id": "Drone_10", "message": "Victim signal detected during mapping mission. Instructions?"}
+{"drone_id": "Drone_2", "message": "Encountering clear skies. Instructions?"}
+{"drone_id": "Drone_11", "message": "Reached surveillance point near crowd gathering. Instructions?"}
+{"drone_id": "Drone_5", "message": "Form formation with Drone Drone_12. What should I do?"}
+{"drone_id": "Drone_10", "message": "Form formation with Drone Drone_3. How should I proceed?"}
+{"drone_id": "Drone_2", "message": "Form formation with Drone Drone_19. Suggested action?"}
+{"drone_id": "Drone_19", "message": "Delivered emergency food pack. What should I do?"}
+{"drone_id": "Drone_10", "message": "Delivered sensor module. Awaiting further instructions."}
+{"drone_id": "Drone_4", "message": "Form formation with Drone Drone_3. Next step?"}
+{"drone_id": "Drone_15", "message": "Reporting status: Severe turbulence. Suggested action?"}
+{"drone_id": "Drone_2", "message": "Obstacle (tree) detected 90m to the North. Suggested action?"}
+{"drone_id": "Drone_9", "message": "Form formation with Drone Drone_11. Awaiting further instructions."}
+{"drone_id": "Drone_10", "message": "Coordinate with Drone Drone_3. Suggested action?"}
+{"drone_id": "Drone_2", "message": "Reporting status: Obstacle detected. Suggested action?"}
+{"drone_id": "Drone_15", "message": "Delivered electronics package. Suggested action?"}
+{"drone_id": "Drone_16", "message": "Reporting status: Obstacle detected. Next step?"}
+{"drone_id": "Drone_8", "message": "Risk alert: Unstable wind conditions in sector 4. How should I proceed?"}
+{"drone_id": "Drone_20", "message": "Risk alert: Possible human presence detected. Requesting guidance."}
+{"drone_id": "Drone_1", "message": "Reached surveillance point near bridge. Next step?"}
+{"drone_id": "Drone_1", "message": "Victim signal detected during delivery mission. How should I proceed?"}
+{"drone_id": "Drone_2", "message": "Reporting status: Ice forming on rotors. How should I proceed?"}
+{"drone_id": "Drone_6", "message": "Risk alert: Smoke detected - potential fire. Requesting guidance."}
+{"drone_id": "Drone_14", "message": "Reporting status: Severe turbulence. Requesting guidance."}
+{"drone_id": "Drone_5", "message": "Reached surveillance point near building rooftop. Next step?"}
+{"drone_id": "Drone_6", "message": "Delivered emergency food pack. Instructions?"}
+{"drone_id": "Drone_15", "message": "Encountering strong wind. What should I do?"}
+{"drone_id": "Drone_5", "message": "Risk alert: Smoke detected - potential fire. How should I proceed?"}
+{"drone_id": "Drone_17", "message": "Risk alert: Smoke detected - potential fire. Suggested action?"}
+{"drone_id": "Drone_16", "message": "Exchange telemetry with Drone Drone_20. Requesting guidance."}
+{"drone_id": "Drone_4", "message": "Victim signal detected during surveillance mission. Requesting guidance."}
+{"drone_id": "Drone_18", "message": "Risk alert: Smoke detected - potential fire. Suggested action?"}
+{"drone_id": "Drone_12", "message": "Risk alert: High voltage zone nearby. Suggested action?"}
+{"drone_id": "Drone_2", "message": "Reached surveillance point near building rooftop. Instructions?"}
+{"drone_id": "Drone_10", "message": "Follow Drone Drone_9. How should I proceed?"}
+{"drone_id": "Drone_2", "message": "Encountering heavy rain. Requesting guidance."}
+{"drone_id": "Drone_14", "message": "Risk alert: Unauthorized drone activity observed. Suggested action?"}
+{"drone_id": "Drone_2", "message": "Reached surveillance point near vehicle convoy. What should I do?"}
+{"drone_id": "Drone_15", "message": "Risk alert: Unauthorized drone activity observed. How should I proceed?"}
+{"drone_id": "Drone_7", "message": "Reporting status: Low signal. How should I proceed?"}
+{"drone_id": "Drone_4", "message": "Reached surveillance point near crowd gathering. Next step?"}
+{"drone_id": "Drone_2", "message": "Coordinate with Drone Drone_7. How should I proceed?"}
+{"drone_id": "Drone_18", "message": "Encountering heavy rain. How should I proceed?"}
+{"drone_id": "Drone_6", "message": "Delivered electronics package. How should I proceed?"}
+{"drone_id": "Drone_6", "message": "Delivered sensor module. How should I proceed?"}
+{"drone_id": "Drone_4", "message": "Reached surveillance point near vehicle convoy. Next step?"}
+{"drone_id": "Drone_16", "message": "Delivered sensor module. Awaiting further instructions."}
+{"drone_id": "Drone_20", "message": "Encountering clear skies. Instructions?"}
+{"drone_id": "Drone_16", "message": "Risk alert: High voltage zone nearby. Next step?"}
+{"drone_id": "Drone_10", "message": "Risk alert: Possible human presence detected. Requesting guidance."}
+{"drone_id": "Drone_2", "message": "Obstacle (bird) detected 20m to the South. What should I do?"}
+{"drone_id": "Drone_2", "message": "Exchange telemetry with Drone Drone_19. Instructions?"}
+{"drone_id": "Drone_8", "message": "Exchange telemetry with Drone Drone_15. Suggested action?"}
+{"drone_id": "Drone_3", "message": "Encountering strong wind. Next step?"}
+{"drone_id": "Drone_6", "message": "Form formation with Drone Drone_20. How should I proceed?"}
+{"drone_id": "Drone_8", "message": "Encountering fog. Requesting guidance."}
+{"drone_id": "Drone_20", "message": "Obstacle (mountain) detected 199m to the South-West. Next step?"}
+{"drone_id": "Drone_3", "message": "Risk alert: Unstable wind conditions in sector 4. Awaiting further instructions."}
+{"drone_id": "Drone_5", "message": "Delivered documents. Next step?"}
+{"drone_id": "Drone_3", "message": "Encountering snow. Instructions?"}
+{"drone_id": "Drone_4", "message": "Delivered medical supplies. Instructions?"}
+{"drone_id": "Drone_15", "message": "Victim signal detected during rescue mission. How should I proceed?"}
+{"drone_id": "Drone_10", "message": "Reached surveillance point near crowd gathering. Instructions?"}
+{"drone_id": "Drone_13", "message": "Reached surveillance point near bridge. Suggested action?"}
+{"drone_id": "Drone_12", "message": "Exchange telemetry with Drone Drone_14. How should I proceed?"}
+{"drone_id": "Drone_14", "message": "Victim signal detected during surveillance mission. Requesting guidance."}
+{"drone_id": "Drone_12", "message": "Risk alert: Unauthorized drone activity observed. Requesting guidance."}
+{"drone_id": "Drone_16", "message": "Risk alert: Smoke detected - potential fire. Next step?"}
+{"drone_id": "Drone_20", "message": "Exchange telemetry with Drone Drone_13. Suggested action?"}
+{"drone_id": "Drone_3", "message": "Follow Drone Drone_6. Next step?"}
+{"drone_id": "Drone_7", "message": "Reporting status: Path clear. Next step?"}
+{"drone_id": "Drone_15", "message": "Obstacle (radio tower) detected 188m to the North. How should I proceed?"}
+{"drone_id": "Drone_18", "message": "Risk alert: High voltage zone nearby. Next step?"}
+{"drone_id": "Drone_15", "message": "Risk alert: Unauthorized drone activity observed. Suggested action?"}
+{"drone_id": "Drone_13", "message": "Risk alert: Possible human presence detected. What should I do?"}
+{"drone_id": "Drone_9", "message": "Obstacle (smoke) detected 78m to the North. Instructions?"}
+{"drone_id": "Drone_3", "message": "Reporting status: Low signal. Suggested action?"}
+{"drone_id": "Drone_17", "message": "Encountering fog. Next step?"}
+{"drone_id": "Drone_11", "message": "Follow Drone Drone_17. What should I do?"}
+{"drone_id": "Drone_3", "message": "Encountering fog. How should I proceed?"}
+{"drone_id": "Drone_2", "message": "Reporting status: Path clear. What should I do?"}
+{"drone_id": "Drone_2", "message": "Encountering clear skies. Next step?"}
+{"drone_id": "Drone_11", "message": "Reached surveillance point near bridge. Awaiting further instructions."}
+{"drone_id": "Drone_17", "message": "Reporting status: Severe turbulence. Instructions?"}
+{"drone_id": "Drone_11", "message": "Reporting status: Low signal. How should I proceed?"}
+{"drone_id": "Drone_16", "message": "Reporting status: Obstacle detected. Requesting guidance."}
+{"drone_id": "Drone_9", "message": "Encountering clear skies. Requesting guidance."}
+{"drone_id": "Drone_18", "message": "Obstacle (radio tower) detected 53m to the South. Awaiting further instructions."}
+{"drone_id": "Drone_5", "message": "Delivered electronics package. What should I do?"}
+{"drone_id": "Drone_16", "message": "Maintain spacing with Drone Drone_5. Suggested action?"}
+{"drone_id": "Drone_12", "message": "Victim signal detected during surveillance mission. Suggested action?"}
+{"drone_id": "Drone_15", "message": "Victim signal detected during delivery mission. Next step?"}
+{"drone_id": "Drone_10", "message": "Risk alert: Possible human presence detected. Instructions?"}
+{"drone_id": "Drone_7", "message": "Encountering fog. How should I proceed?"}
+{"drone_id": "Drone_10", "message": "Obstacle (building) detected 149m to the North. Requesting guidance."}
+{"drone_id": "Drone_11", "message": "Victim signal detected during surveillance mission. Requesting guidance."}
+{"drone_id": "Drone_7", "message": "Encountering clear skies. Awaiting further instructions."}
+{"drone_id": "Drone_20", "message": "Victim signal detected during mapping mission. Suggested action?"}
+{"drone_id": "Drone_14", "message": "Encountering strong wind. Awaiting further instructions."}
+{"drone_id": "Drone_14", "message": "Reached surveillance point near vehicle convoy. What should I do?"}
+{"drone_id": "Drone_5", "message": "Reporting status: Payload dropped. Suggested action?"}
+{"drone_id": "Drone_14", "message": "Reached surveillance point near vehicle convoy. Instructions?"}
+{"drone_id": "Drone_19", "message": "Delivered documents. Requesting guidance."}
+{"drone_id": "Drone_1", "message": "Obstacle (smoke) detected 57m to the South-West. What should I do?"}
+{"drone_id": "Drone_13", "message": "Delivered medical supplies. Next step?"}
+{"drone_id": "Drone_11", "message": "Risk alert: Possible human presence detected. Next step?"}
+{"drone_id": "Drone_5", "message": "Delivered sensor module. How should I proceed?"}
+{"drone_id": "Drone_7", "message": "Delivered electronics package. Requesting guidance."}
+{"drone_id": "Drone_6", "message": "Victim signal detected during delivery mission. Suggested action?"}
+{"drone_id": "Drone_14", "message": "Reporting status: Obstacle detected. Awaiting further instructions."}
+{"drone_id": "Drone_3", "message": "Delivered documents. Suggested action?"}
+{"drone_id": "Drone_19", "message": "Victim signal detected during delivery mission. Suggested action?"}
+{"drone_id": "Drone_6", "message": "Reporting status: Battery low. Instructions?"}
+{"drone_id": "Drone_5", "message": "Encountering strong wind. Suggested action?"}
+{"drone_id": "Drone_18", "message": "Victim signal detected during mapping mission. How should I proceed?"}
+{"drone_id": "Drone_13", "message": "Reached surveillance point near vehicle convoy. Suggested action?"}
+{"drone_id": "Drone_5", "message": "Maintain spacing with Drone Drone_10. Awaiting further instructions."}
+{"drone_id": "Drone_2", "message": "Form formation with Drone Drone_20. Awaiting further instructions."}
+{"drone_id": "Drone_7", "message": "Victim signal detected during surveillance mission. Next step?"}
+{"drone_id": "Drone_14", "message": "Risk alert: Unauthorized drone activity observed. Suggested action?"}
+{"drone_id": "Drone_4", "message": "Reporting status: Payload dropped. Instructions?"}
+{"drone_id": "Drone_13", "message": "Delivered documents. Requesting guidance."}
+{"drone_id": "Drone_10", "message": "Obstacle (smoke) detected 186m to the West. Awaiting further instructions."}
+{"drone_id": "Drone_18", "message": "Delivered sensor module. Awaiting further instructions."}
+{"drone_id": "Drone_8", "message": "Encountering strong wind. Next step?"}
+{"drone_id": "Drone_20", "message": "Reached surveillance point near building rooftop. Suggested action?"}
+{"drone_id": "Drone_9", "message": "Risk alert: Possible human presence detected. Instructions?"}
+{"drone_id": "Drone_18", "message": "Delivered medical supplies. Next step?"}
+{"drone_id": "Drone_3", "message": "Reached surveillance point near building rooftop. How should I proceed?"}
+{"drone_id": "Drone_4", "message": "Victim signal detected during surveillance mission. Instructions?"}
+{"drone_id": "Drone_3", "message": "Victim signal detected during delivery mission. How should I proceed?"}
+{"drone_id": "Drone_2", "message": "Reached surveillance point near bridge. Awaiting further instructions."}
+{"drone_id": "Drone_5", "message": "Reporting status: Payload dropped. Awaiting further instructions."}
+{"drone_id": "Drone_19", "message": "Risk alert: High voltage zone nearby. Next step?"}
+{"drone_id": "Drone_15", "message": "Victim signal detected during surveillance mission. Awaiting further instructions."}
+{"drone_id": "Drone_18", "message": "Risk alert: Smoke detected - potential fire. What should I do?"}
+{"drone_id": "Drone_2", "message": "Reached surveillance point near vehicle convoy. How should I proceed?"}
+{"drone_id": "Drone_8", "message": "Encountering snow. Instructions?"}
+{"drone_id": "Drone_9", "message": "Delivered medical supplies. Awaiting further instructions."}
+{"drone_id": "Drone_14", "message": "Obstacle (bird) detected 66m to the North-East. What should I do?"}
+{"drone_id": "Drone_17", "message": "Victim signal detected during mapping mission. How should I proceed?"}
+{"drone_id": "Drone_15", "message": "Delivered emergency food pack. Awaiting further instructions."}
+{"drone_id": "Drone_18", "message": "Obstacle (smoke) detected 47m to the South. Next step?"}
+{"drone_id": "Drone_16", "message": "Form formation with Drone Drone_1. Requesting guidance."}
+{"drone_id": "Drone_11", "message": "Victim signal detected during delivery mission. Next step?"}
+{"drone_id": "Drone_7", "message": "Delivered emergency food pack. Next step?"}
+{"drone_id": "Drone_11", "message": "Victim signal detected during mapping mission. What should I do?"}
+{"drone_id": "Drone_5", "message": "Risk alert: High voltage zone nearby. Awaiting further instructions."}
+{"drone_id": "Drone_3", "message": "Obstacle (smoke) detected 39m to the West. How should I proceed?"}
+{"drone_id": "Drone_11", "message": "Victim signal detected during mapping mission. How should I proceed?"}
+{"drone_id": "Drone_4", "message": "Risk alert: Unstable wind conditions in sector 4. What should I do?"}
+{"drone_id": "Drone_1", "message": "Risk alert: High voltage zone nearby. Requesting guidance."}
+{"drone_id": "Drone_4", "message": "Reporting status: Ice forming on rotors. What should I do?"}
+{"drone_id": "Drone_16", "message": "Risk alert: Unstable wind conditions in sector 4. Requesting guidance."}
+{"drone_id": "Drone_9", "message": "Reached surveillance point near crowd gathering. Suggested action?"}
+{"drone_id": "Drone_17", "message": "Victim signal detected during surveillance mission. Instructions?"}
+{"drone_id": "Drone_20", "message": "Risk alert: Unauthorized drone activity observed. Instructions?"}
+{"drone_id": "Drone_10", "message": "Encountering snow. What should I do?"}
+{"drone_id": "Drone_20", "message": "Reporting status: Ice forming on rotors. Awaiting further instructions."}
+{"drone_id": "Drone_3", "message": "Risk alert: Possible human presence detected. Awaiting further instructions."}
+{"drone_id": "Drone_9", "message": "Reached surveillance point near bridge. Requesting guidance."}
+{"drone_id": "Drone_16", "message": "Obstacle (bird) detected 14m to the South-West. What should I do?"}
+{"drone_id": "Drone_15", "message": "Victim signal detected during delivery mission. Next step?"}
+{"drone_id": "Drone_8", "message": "Obstacle (drone) detected 120m to the North-East. Next step?"}
+{"drone_id": "Drone_10", "message": "Delivered electronics package. Instructions?"}
+{"drone_id": "Drone_20", "message": "Delivered sensor module. Suggested action?"}
+{"drone_id": "Drone_19", "message": "Victim signal detected during mapping mission. Awaiting further instructions."}
+{"drone_id": "Drone_18", "message": "Reached surveillance point near forest clearing. Suggested action?"}
+{"drone_id": "Drone_3", "message": "Reached surveillance point near crowd gathering. How should I proceed?"}
+{"drone_id": "Drone_9", "message": "Risk alert: Unstable wind conditions in sector 4. Instructions?"}
+{"drone_id": "Drone_15", "message": "Reporting status: Battery low. Awaiting further instructions."}
+{"drone_id": "Drone_5", "message": "Delivered electronics package. Requesting guidance."}
+{"drone_id": "Drone_6", "message": "Reached surveillance point near crowd gathering. What should I do?"}
+{"drone_id": "Drone_19", "message": "Follow Drone Drone_10. Suggested action?"}
+{"drone_id": "Drone_3", "message": "Delivered sensor module. What should I do?"}
+{"drone_id": "Drone_8", "message": "Exchange telemetry with Drone Drone_5. Next step?"}
+{"drone_id": "Drone_15", "message": "Reached surveillance point near crowd gathering. Requesting guidance."}
+{"drone_id": "Drone_5", "message": "Encountering heavy rain. What should I do?"}
+{"drone_id": "Drone_19", "message": "Delivered electronics package. Requesting guidance."}
+{"drone_id": "Drone_9", "message": "Obstacle (smoke) detected 184m to the West. How should I proceed?"}
+{"drone_id": "Drone_19", "message": "Follow Drone Drone_10. Next step?"}
+{"drone_id": "Drone_13", "message": "Obstacle (power line) detected 73m to the North-East. How should I proceed?"}
+{"drone_id": "Drone_18", "message": "Maintain spacing with Drone Drone_13. Awaiting further instructions."}
+{"drone_id": "Drone_10", "message": "Delivered medical supplies. What should I do?"}
+{"drone_id": "Drone_11", "message": "Coordinate with Drone Drone_16. Suggested action?"}
+{"drone_id": "Drone_14", "message": "Reached surveillance point near vehicle convoy. Requesting guidance."}
+{"drone_id": "Drone_4", "message": "Coordinate with Drone Drone_9. Instructions?"}
+{"drone_id": "Drone_8", "message": "Encountering snow. Next step?"}
+{"drone_id": "Drone_14", "message": "Risk alert: Possible human presence detected. Awaiting further instructions."}
+{"drone_id": "Drone_3", "message": "Encountering heavy rain. How should I proceed?"}
+{"drone_id": "Drone_5", "message": "Reached surveillance point near bridge. Requesting guidance."}
+{"drone_id": "Drone_20", "message": "Reached surveillance point near vehicle convoy. Instructions?"}
+{"drone_id": "Drone_12", "message": "Delivered emergency food pack. Suggested action?"}
+{"drone_id": "Drone_1", "message": "Reached surveillance point near forest clearing. Awaiting further instructions."}
+{"drone_id": "Drone_6", "message": "Reporting status: Path clear. What should I do?"}
+{"drone_id": "Drone_8", "message": "Risk alert: High voltage zone nearby. Next step?"}
+{"drone_id": "Drone_19", "message": "Reporting status: Ice forming on rotors. Requesting guidance."}
+{"drone_id": "Drone_12", "message": "Delivered medical supplies. Next step?"}
+{"drone_id": "Drone_15", "message": "Victim signal detected during mapping mission. Instructions?"}
+{"drone_id": "Drone_19", "message": "Risk alert: Unauthorized drone activity observed. How should I proceed?"}
+{"drone_id": "Drone_6", "message": "Obstacle (drone) detected 108m to the North-East. What should I do?"}
+{"drone_id": "Drone_10", "message": "Obstacle (bird) detected 115m to the South-West. How should I proceed?"}
+{"drone_id": "Drone_3", "message": "Victim signal detected during delivery mission. Next step?"}
+{"drone_id": "Drone_9", "message": "Victim signal detected during mapping mission. Awaiting further instructions."}
+{"drone_id": "Drone_5", "message": "Reporting status: Battery low. Suggested action?"}
+{"drone_id": "Drone_12", "message": "Obstacle (power line) detected 61m to the East. Instructions?"}
+{"drone_id": "Drone_18", "message": "Maintain spacing with Drone Drone_6. Requesting guidance."}
+{"drone_id": "Drone_9", "message": "Victim signal detected during delivery mission. Requesting guidance."}
+{"drone_id": "Drone_7", "message": "Delivered emergency food pack. Awaiting further instructions."}
+{"drone_id": "Drone_1", "message": "Form formation with Drone Drone_5. What should I do?"}
+{"drone_id": "Drone_7", "message": "Obstacle (drone) detected 8m to the East. Requesting guidance."}
+{"drone_id": "Drone_4", "message": "Reporting status: Battery low. Suggested action?"}
+{"drone_id": "Drone_10", "message": "Delivered medical supplies. Awaiting further instructions."}
+{"drone_id": "Drone_14", "message": "Obstacle (power line) detected 9m to the South. Next step?"}
+{"drone_id": "Drone_19", "message": "Obstacle (power line) detected 120m to the West. Awaiting further instructions."}
+{"drone_id": "Drone_11", "message": "Obstacle (mountain) detected 8m to the North. Instructions?"}
+{"drone_id": "Drone_13", "message": "Reached surveillance point near bridge. Requesting guidance."}
+{"drone_id": "Drone_19", "message": "Victim signal detected during rescue mission. How should I proceed?"}
+{"drone_id": "Drone_14", "message": "Delivered electronics package. Instructions?"}
+{"drone_id": "Drone_4", "message": "Encountering snow. Suggested action?"}
+{"drone_id": "Drone_1", "message": "Victim signal detected during delivery mission. What should I do?"}
+{"drone_id": "Drone_14", "message": "Reached surveillance point near crowd gathering. How should I proceed?"}
+{"drone_id": "Drone_14", "message": "Victim signal detected during rescue mission. Suggested action?"}
+{"drone_id": "Drone_11", "message": "Delivered medical supplies. Instructions?"}
+{"drone_id": "Drone_4", "message": "Encountering heavy rain. Next step?"}
+{"drone_id": "Drone_19", "message": "Risk alert: Possible human presence detected. Suggested action?"}
+{"drone_id": "Drone_20", "message": "Risk alert: Unauthorized drone activity observed. Requesting guidance."}
+{"drone_id": "Drone_14", "message": "Exchange telemetry with Drone Drone_15. Requesting guidance."}
+{"drone_id": "Drone_2", "message": "Delivered sensor module. Instructions?"}
+{"drone_id": "Drone_17", "message": "Encountering clear skies. Instructions?"}
+{"drone_id": "Drone_9", "message": "Obstacle (radio tower) detected 78m to the East. What should I do?"}
+{"drone_id": "Drone_18", "message": "Victim signal detected during delivery mission. Suggested action?"}
+{"drone_id": "Drone_13", "message": "Follow Drone Drone_2. Instructions?"}
+{"drone_id": "Drone_20", "message": "Coordinate with Drone Drone_11. Instructions?"}
+{"drone_id": "Drone_13", "message": "Victim signal detected during delivery mission. Requesting guidance."}
+{"drone_id": "Drone_7", "message": "Delivered documents. What should I do?"}
+{"drone_id": "Drone_18", "message": "Victim signal detected during mapping mission. Instructions?"}
+{"drone_id": "Drone_18", "message": "Reached surveillance point near vehicle convoy. Awaiting further instructions."}
+{"drone_id": "Drone_7", "message": "Reporting status: High wind alert. Requesting guidance."}
+{"drone_id": "Drone_20", "message": "Delivered documents. Next step?"}
+{"drone_id": "Drone_2", "message": "Reporting status: Payload dropped. What should I do?"}
+{"drone_id": "Drone_20", "message": "Obstacle (drone) detected 170m to the North-East. Requesting guidance."}
+{"drone_id": "Drone_9", "message": "Obstacle (bird) detected 74m to the West. Requesting guidance."}
+{"drone_id": "Drone_15", "message": "Reached surveillance point near bridge. Instructions?"}
+{"drone_id": "Drone_7", "message": "Victim signal detected during mapping mission. Requesting guidance."}
+{"drone_id": "Drone_13", "message": "Delivered medical supplies. Next step?"}
+{"drone_id": "Drone_7", "message": "Reporting status: Obstacle detected. Requesting guidance."}
+{"drone_id": "Drone_1", "message": "Encountering snow. How should I proceed?"}
+{"drone_id": "Drone_19", "message": "Exchange telemetry with Drone Drone_17. Instructions?"}
+{"drone_id": "Drone_8", "message": "Obstacle (mountain) detected 19m to the North-East. Next step?"}
+{"drone_id": "Drone_10", "message": "Reporting status: GPS lost. Instructions?"}
+{"drone_id": "Drone_19", "message": "Follow Drone Drone_8. Suggested action?"}
+{"drone_id": "Drone_13", "message": "Reporting status: Obstacle detected. What should I do?"}
+{"drone_id": "Drone_18", "message": "Reporting status: Path clear. Requesting guidance."}
+{"drone_id": "Drone_7", "message": "Delivered sensor module. Awaiting further instructions."}
+{"drone_id": "Drone_5", "message": "Reporting status: Low signal. Requesting guidance."}
+{"drone_id": "Drone_16", "message": "Victim signal detected during rescue mission. How should I proceed?"}
+{"drone_id": "Drone_4", "message": "Risk alert: Unstable wind conditions in sector 4. Requesting guidance."}
+{"drone_id": "Drone_10", "message": "Obstacle (antenna) detected 86m to the South-West. Requesting guidance."}
+{"drone_id": "Drone_13", "message": "Reached surveillance point near building rooftop. Suggested action?"}
+{"drone_id": "Drone_14", "message": "Encountering heavy rain. Requesting guidance."}
+{"drone_id": "Drone_15", "message": "Encountering clear skies. Instructions?"}
+{"drone_id": "Drone_17", "message": "Follow Drone Drone_8. Suggested action?"}
+{"drone_id": "Drone_1", "message": "Obstacle (tree) detected 123m to the East. Awaiting further instructions."}
+{"drone_id": "Drone_7", "message": "Reporting status: Severe turbulence. Awaiting further instructions."}
+{"drone_id": "Drone_13", "message": "Encountering fog. Suggested action?"}
+{"drone_id": "Drone_3", "message": "Reporting status: GPS lost. Awaiting further instructions."}
+{"drone_id": "Drone_8", "message": "Coordinate with Drone Drone_15. Next step?"}
+{"drone_id": "Drone_13", "message": "Obstacle (mountain) detected 9m to the North-East. Instructions?"}
+{"drone_id": "Drone_20", "message": "Delivered electronics package. Requesting guidance."}
+{"drone_id": "Drone_14", "message": "Form formation with Drone Drone_13. Instructions?"}
+{"drone_id": "Drone_3", "message": "Encountering heavy rain. Requesting guidance."}
+{"drone_id": "Drone_7", "message": "Risk alert: Smoke detected - potential fire. What should I do?"}
+{"drone_id": "Drone_12", "message": "Risk alert: Smoke detected - potential fire. How should I proceed?"}
+{"drone_id": "Drone_6", "message": "Obstacle (bird) detected 24m to the South. Requesting guidance."}
+{"drone_id": "Drone_10", "message": "Encountering strong wind. What should I do?"}
+{"drone_id": "Drone_1", "message": "Follow Drone Drone_7. What should I do?"}
+{"drone_id": "Drone_8", "message": "Obstacle (smoke) detected 31m to the East. Instructions?"}
+{"drone_id": "Drone_1", "message": "Risk alert: Unstable wind conditions in sector 4. Instructions?"}
+{"drone_id": "Drone_20", "message": "Obstacle (smoke) detected 17m to the South-West. Instructions?"}
+{"drone_id": "Drone_1", "message": "Reached surveillance point near bridge. How should I proceed?"}
+{"drone_id": "Drone_15", "message": "Reporting status: Path clear. Next step?"}
+{"drone_id": "Drone_18", "message": "Encountering fog. Instructions?"}
+{"drone_id": "Drone_20", "message": "Reporting status: High wind alert. Awaiting further instructions."}
+{"drone_id": "Drone_4", "message": "Victim signal detected during mapping mission. Requesting guidance."}
+{"drone_id": "Drone_11", "message": "Risk alert: Possible human presence detected. Instructions?"}
+{"drone_id": "Drone_16", "message": "Delivered emergency food pack. How should I proceed?"}
+{"drone_id": "Drone_15", "message": "Risk alert: Unstable wind conditions in sector 4. How should I proceed?"}
+{"drone_id": "Drone_16", "message": "Reached surveillance point near bridge. Instructions?"}
+{"drone_id": "Drone_13", "message": "Reached surveillance point near forest clearing. What should I do?"}
+{"drone_id": "Drone_5", "message": "Obstacle (bird) detected 37m to the North-East. Requesting guidance."}
+{"drone_id": "Drone_13", "message": "Encountering strong wind. Suggested action?"}
+{"drone_id": "Drone_6", "message": "Victim signal detected during rescue mission. Next step?"}
+{"drone_id": "Drone_13", "message": "Exchange telemetry with Drone Drone_10. What should I do?"}
+{"drone_id": "Drone_18", "message": "Encountering heavy rain. Instructions?"}
+{"drone_id": "Drone_5", "message": "Encountering strong wind. What should I do?"}
+{"drone_id": "Drone_11", "message": "Victim signal detected during delivery mission. Requesting guidance."}
+{"drone_id": "Drone_17", "message": "Victim signal detected during delivery mission. How should I proceed?"}
+{"drone_id": "Drone_8", "message": "Reporting status: Severe turbulence. How should I proceed?"}
+{"drone_id": "Drone_2", "message": "Encountering clear skies. What should I do?"}
+{"drone_id": "Drone_14", "message": "Reached surveillance point near building rooftop. Requesting guidance."}
+{"drone_id": "Drone_3", "message": "Coordinate with Drone Drone_18. How should I proceed?"}
+{"drone_id": "Drone_10", "message": "Form formation with Drone Drone_4. Instructions?"}
+{"drone_id": "Drone_17", "message": "Follow Drone Drone_19. Next step?"}
+{"drone_id": "Drone_9", "message": "Victim signal detected during delivery mission. Next step?"}
+{"drone_id": "Drone_3", "message": "Obstacle (bird) detected 130m to the South-West. How should I proceed?"}
+{"drone_id": "Drone_20", "message": "Risk alert: Unstable wind conditions in sector 4. Next step?"}
+{"drone_id": "Drone_15", "message": "Reached surveillance point near vehicle convoy. Next step?"}
+{"drone_id": "Drone_14", "message": "Coordinate with Drone Drone_9. Next step?"}
+{"drone_id": "Drone_13", "message": "Reached surveillance point near forest clearing. What should I do?"}
+{"drone_id": "Drone_17", "message": "Reporting status: Payload dropped. How should I proceed?"}
+{"drone_id": "Drone_19", "message": "Coordinate with Drone Drone_12. Next step?"}
+{"drone_id": "Drone_10", "message": "Victim signal detected during surveillance mission. Next step?"}
+{"drone_id": "Drone_1", "message": "Reporting status: Ice forming on rotors. Next step?"}
+{"drone_id": "Drone_14", "message": "Encountering clear skies. Next step?"}
+{"drone_id": "Drone_9", "message": "Delivered electronics package. Awaiting further instructions."}
+{"drone_id": "Drone_2", "message": "Reporting status: Battery low. What should I do?"}
+{"drone_id": "Drone_12", "message": "Victim signal detected during rescue mission. Instructions?"}
+{"drone_id": "Drone_20", "message": "Reporting status: Path clear. What should I do?"}
+{"drone_id": "Drone_3", "message": "Obstacle (power line) detected 159m to the North-East. Next step?"}
+{"drone_id": "Drone_12", "message": "Obstacle (smoke) detected 21m to the West. Suggested action?"}
+{"drone_id": "Drone_2", "message": "Reached surveillance point near building rooftop. Next step?"}
+{"drone_id": "Drone_13", "message": "Obstacle (bird) detected 51m to the South-West. How should I proceed?"}
+{"drone_id": "Drone_3", "message": "Obstacle (drone) detected 90m to the South-West. How should I proceed?"}
+{"drone_id": "Drone_12", "message": "Delivered medical supplies. Requesting guidance."}
+{"drone_id": "Drone_14", "message": "Reporting status: Ice forming on rotors. Awaiting further instructions."}
+{"drone_id": "Drone_18", "message": "Delivered emergency food pack. How should I proceed?"}
+{"drone_id": "Drone_3", "message": "Victim signal detected during mapping mission. Awaiting further instructions."}
+{"drone_id": "Drone_16", "message": "Exchange telemetry with Drone Drone_6. Instructions?"}
+{"drone_id": "Drone_14", "message": "Delivered documents. Suggested action?"}
+{"drone_id": "Drone_18", "message": "Maintain spacing with Drone Drone_5. What should I do?"}
+{"drone_id": "Drone_8", "message": "Maintain spacing with Drone Drone_16. How should I proceed?"}
+{"drone_id": "Drone_1", "message": "Obstacle (mountain) detected 136m to the South-West. How should I proceed?"}
+{"drone_id": "Drone_16", "message": "Delivered sensor module. Suggested action?"}
+{"drone_id": "Drone_14", "message": "Reporting status: Path clear. Awaiting further instructions."}
+{"drone_id": "Drone_4", "message": "Delivered emergency food pack. Next step?"}
+{"drone_id": "Drone_19", "message": "Delivered electronics package. Awaiting further instructions."}
+{"drone_id": "Drone_18", "message": "Reached surveillance point near vehicle convoy. What should I do?"}
+{"drone_id": "Drone_1", "message": "Victim signal detected during delivery mission. Awaiting further instructions."}
+{"drone_id": "Drone_10", "message": "Reporting status: Obstacle detected. How should I proceed?"}
+{"drone_id": "Drone_10", "message": "Risk alert: Smoke detected - potential fire. Instructions?"}
+{"drone_id": "Drone_18", "message": "Obstacle (mountain) detected 190m to the South. How should I proceed?"}
+{"drone_id": "Drone_11", "message": "Reached surveillance point near forest clearing. Instructions?"}
+{"drone_id": "Drone_6", "message": "Delivered emergency food pack. Suggested action?"}
+{"drone_id": "Drone_7", "message": "Delivered emergency food pack. Instructions?"}
+{"drone_id": "Drone_20", "message": "Encountering heavy rain. Suggested action?"}
+{"drone_id": "Drone_19", "message": "Encountering clear skies. Requesting guidance."}
+{"drone_id": "Drone_1", "message": "Obstacle (radio tower) detected 200m to the South. What should I do?"}
+{"drone_id": "Drone_2", "message": "Maintain spacing with Drone Drone_4. Next step?"}
+{"drone_id": "Drone_12", "message": "Encountering heavy rain. What should I do?"}
+{"drone_id": "Drone_15", "message": "Reporting status: GPS lost. How should I proceed?"}
+{"drone_id": "Drone_15", "message": "Coordinate with Drone Drone_13. Instructions?"}
+{"drone_id": "Drone_18", "message": "Victim signal detected during rescue mission. Instructions?"}
+{"drone_id": "Drone_1", "message": "Obstacle (drone) detected 88m to the North. Instructions?"}
+{"drone_id": "Drone_2", "message": "Obstacle (antenna) detected 87m to the South-West. How should I proceed?"}
+{"drone_id": "Drone_6", "message": "Obstacle (power line) detected 164m to the South. Next step?"}
+{"drone_id": "Drone_5", "message": "Risk alert: Unauthorized drone activity observed. Suggested action?"}
+{"drone_id": "Drone_7", "message": "Reached surveillance point near building rooftop. What should I do?"}
+{"drone_id": "Drone_13", "message": "Delivered documents. What should I do?"}
+{"drone_id": "Drone_3", "message": "Obstacle (radio tower) detected 139m to the South-West. Next step?"}
+{"drone_id": "Drone_9", "message": "Reporting status: Obstacle detected. Next step?"}
+{"drone_id": "Drone_16", "message": "Delivered sensor module. Requesting guidance."}
+{"drone_id": "Drone_14", "message": "Exchange telemetry with Drone Drone_6. Next step?"}
+{"drone_id": "Drone_8", "message": "Obstacle (antenna) detected 194m to the North-East. How should I proceed?"}
+{"drone_id": "Drone_1", "message": "Delivered emergency food pack. Instructions?"}
+{"drone_id": "Drone_9", "message": "Risk alert: High voltage zone nearby. Awaiting further instructions."}
+{"drone_id": "Drone_18", "message": "Form formation with Drone Drone_14. Instructions?"}
+{"drone_id": "Drone_14", "message": "Encountering fog. What should I do?"}
+{"drone_id": "Drone_13", "message": "Risk alert: Smoke detected - potential fire. Next step?"}
+{"drone_id": "Drone_10", "message": "Risk alert: Smoke detected - potential fire. Awaiting further instructions."}
+{"drone_id": "Drone_1", "message": "Delivered electronics package. How should I proceed?"}
+{"drone_id": "Drone_2", "message": "Risk alert: Unstable wind conditions in sector 4. Instructions?"}
+{"drone_id": "Drone_7", "message": "Victim signal detected during delivery mission. How should I proceed?"}
+{"drone_id": "Drone_4", "message": "Risk alert: Smoke detected - potential fire. Awaiting further instructions."}
+{"drone_id": "Drone_1", "message": "Reached surveillance point near building rooftop. Awaiting further instructions."}
+{"drone_id": "Drone_5", "message": "Encountering strong wind. Next step?"}
+{"drone_id": "Drone_9", "message": "Risk alert: Unstable wind conditions in sector 4. How should I proceed?"}
+{"drone_id": "Drone_15", "message": "Reached surveillance point near crowd gathering. Requesting guidance."}
+{"drone_id": "Drone_6", "message": "Risk alert: Possible human presence detected. How should I proceed?"}
+{"drone_id": "Drone_15", "message": "Encountering clear skies. Suggested action?"}
+{"drone_id": "Drone_7", "message": "Encountering heavy rain. Awaiting further instructions."}
+{"drone_id": "Drone_11", "message": "Reached surveillance point near crowd gathering. Awaiting further instructions."}
+{"drone_id": "Drone_2", "message": "Obstacle (power line) detected 97m to the South-West. Awaiting further instructions."}
+{"drone_id": "Drone_6", "message": "Risk alert: Smoke detected - potential fire. Suggested action?"}
+{"drone_id": "Drone_4", "message": "Obstacle (smoke) detected 65m to the East. Awaiting further instructions."}
+{"drone_id": "Drone_3", "message": "Encountering heavy rain. Awaiting further instructions."}
+{"drone_id": "Drone_12", "message": "Victim signal detected during surveillance mission. What should I do?"}
+{"drone_id": "Drone_17", "message": "Risk alert: Unauthorized drone activity observed. Awaiting further instructions."}
+{"drone_id": "Drone_6", "message": "Encountering strong wind. How should I proceed?"}
+{"drone_id": "Drone_9", "message": "Victim signal detected during mapping mission. What should I do?"}
+{"drone_id": "Drone_3", "message": "Encountering strong wind. Instructions?"}
+{"drone_id": "Drone_6", "message": "Encountering clear skies. Next step?"}
+{"drone_id": "Drone_18", "message": "Encountering heavy rain. Next step?"}
+{"drone_id": "Drone_2", "message": "Encountering strong wind. Requesting guidance."}
+{"drone_id": "Drone_9", "message": "Reached surveillance point near forest clearing. Requesting guidance."}
+{"drone_id": "Drone_8", "message": "Risk alert: Unstable wind conditions in sector 4. How should I proceed?"}
+{"drone_id": "Drone_20", "message": "Obstacle (power line) detected 151m to the South-West. Requesting guidance."}
+{"drone_id": "Drone_1", "message": "Victim signal detected during surveillance mission. What should I do?"}
+{"drone_id": "Drone_13", "message": "Encountering fog. Requesting guidance."}
+{"drone_id": "Drone_11", "message": "Risk alert: Unstable wind conditions in sector 4. Next step?"}
+{"drone_id": "Drone_11", "message": "Reached surveillance point near bridge. Suggested action?"}
+{"drone_id": "Drone_14", "message": "Maintain spacing with Drone Drone_3. How should I proceed?"}
+{"drone_id": "Drone_14", "message": "Delivered sensor module. Requesting guidance."}
+{"drone_id": "Drone_12", "message": "Victim signal detected during surveillance mission. Awaiting further instructions."}
+{"drone_id": "Drone_7", "message": "Risk alert: Possible human presence detected. Awaiting further instructions."}
+{"drone_id": "Drone_20", "message": "Victim signal detected during rescue mission. Awaiting further instructions."}
+{"drone_id": "Drone_8", "message": "Maintain spacing with Drone Drone_9. How should I proceed?"}
+{"drone_id": "Drone_6", "message": "Obstacle (smoke) detected 197m to the South. How should I proceed?"}
+{"drone_id": "Drone_14", "message": "Risk alert: High voltage zone nearby. Requesting guidance."}
+{"drone_id": "Drone_2", "message": "Reporting status: Battery low. How should I proceed?"}
+{"drone_id": "Drone_9", "message": "Risk alert: Possible human presence detected. Suggested action?"}
+{"drone_id": "Drone_20", "message": "Reporting status: Ice forming on rotors. Awaiting further instructions."}
+{"drone_id": "Drone_10", "message": "Victim signal detected during delivery mission. Suggested action?"}
+{"drone_id": "Drone_10", "message": "Victim signal detected during surveillance mission. Requesting guidance."}
+{"drone_id": "Drone_14", "message": "Obstacle (antenna) detected 116m to the East. Instructions?"}
+{"drone_id": "Drone_4", "message": "Reached surveillance point near forest clearing. Instructions?"}
+{"drone_id": "Drone_2", "message": "Encountering strong wind. Next step?"}
+{"drone_id": "Drone_10", "message": "Risk alert: Unstable wind conditions in sector 4. What should I do?"}
